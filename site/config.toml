@@ -45,13 +45,12 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "Ipsum lorem dolor aliquam ante commodo magna sed accumsan arcu neque."
-		content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
-
+		title = "Les aventures trépidantes d'une jeune dév !"
+		content = "Jeune développeuse (sa reconversion date d'avril 2017), Super Alex avait envie d'un espace à elle pour tester, rapporter et partager ses trouvailles. Quelles soient en lien avec le développement ou non ! Alors bienvenue dans mon bac à sable !"
 
 	[params.portfolio]
 		hide  = false
-		title = "Recent Work"
+		title = "Ce que j'ai fait dernièrement !"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
@@ -93,19 +92,19 @@ paginate = 10
 
 	[params.recentposts]
 		hide  = false
-		title = "Recent blog posts"
+		title = "Mes derniers blabla :"
 
 	[params.contact]
 		hide  = false
-		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+		title = "Tu veux me contacter ?"
+		content = "C'est facile, remplit ce questionnaire, et je te répondrais !"
 
 		address = [
-			"1234 Somewhere Rd.",
-			"Nashville, TN 00000",
-			"United States"
+			"18 rue Demarquay",
+			"75010 Paris",
+			"FRANCE"
 		]
-		phone = "000-000-0000"
+		phone = "06-80-41-78-75"
 
 		# Since this template is static, the contact form uses www.formspree.io as a
 		# proxy. The form makes a POST request to their servers to send the actual
@@ -118,15 +117,15 @@ paginate = 10
 	    # - send a dummy email yourself to confirm your account
 	    # - click the confirm link in the email from www.formspree.io
 	    # - you're done. Happy mailing!
-		email = "hello@example.com"
+		email = "nanshee4@gmail.com"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native
 			# language isn't English
-			name = "Name"
+			name = "Nom"
 			email = "Email"
 			message = "Message"
-			submit = "Send message"
+			submit = "Envoyer ce message"
 
 
 # Menu links that appear on the left sidebar
