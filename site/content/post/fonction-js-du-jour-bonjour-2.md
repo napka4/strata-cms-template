@@ -28,7 +28,7 @@ J'ai trouvé pile ce qu'il me fallait grâce à cette mini-lib et comme je suis 
   <label>Recherche :      <input type="text" class="fuzzy-search" placeholder="Rechercher par nom"/></label><label>Rechercher par spécialité :</label><br><div class="row">    <label class="col-sm-6 col-lg-3">    <input type="checkbox" name="cartonnage" class="filter" data-value="Cartonnage"/>Cartonnage    </label>    <label class="col-sm-6 col-lg-3">    <input type="checkbox" name="comf" class="filter" data-value="Communication imprimé feuille"/> Communication imprimée feuille     </label>    <label class="col-sm-6 col-lg-3">    <input type="checkbox" name="comroto" class="filter" data-value="Communication imprimé roto"/> Communication imprimée roto    </label></div>
 ```
 
-Dans cette div j'ajoute une classe"fuzy-search" qui va me servir pour ma fonction js pour filtrer et lister. De même j'ajoute à mes checkboxes un "name", une class "filter", et une data-value pour récupérer les données en js et les utiliser ensuite. 
+Dans cette div_ j'ajoute une classe"fuzy-search"_ qui va me servir pour ma fonction js pour filtrer et lister. De même j'ajoute à mes checkboxes un "name", une class "filter", et une _data-value _pour récupérer les données en js et les utiliser ensuite. 
 
 Une class "row" pour l'affichage, et une class "col-sm-6 col-lg-3" pour un affichage responsive toujours et en colonne de 4 éléments.
 
@@ -54,9 +54,9 @@ Alors ici j'ai rajouté une class "list content row" à ma div, list sert à reg
 
 Ensuite chaque image et lien sont insérer dans une "div" avec une classe décomposée comme ça : one (j'y mets l'image en background et les propriétés de size) box (ça gère l'affichage de ma div et rends les textes dedans invisibles, oui c'est pas très propre tout ça !), puis une classe de bootstrap "col-sm-6 col-lg-3" pour l'affichage responsive encore ^^
 
-Ma class "name" permet de récupérer le nom de la recherche pour filtrer par nom, la class"spec" sera utilisé pour le filtre par checkboxes.
+Ma class "_name" permet de récupérer le nom_ de la recherche pour filtrer par nom, la class"spec" sera utilisé pour le filtre par checkboxes.
 
-\-5 Et maintenant le script en js :
+\-5 Et maintenant _le script en js_ :
 
 ```
 script>    var options =        {        valueNames: ['name', 'spec']         };    var userList = new List        ('test-list',options);    //filter    $('.filter').change(function() {        var bool = this.checked;        var value = $(this).data("value");        userList.filter(function (item) {            if (item.values().spec == value && bool == true) {        return true;                 } else if (userList.filtered && bool == false) {              return true;               } else {                return false;            }        });        return false;    });    $('.box').click(function(){        window.location.href = $("a",$(this)).attr("href");    });    $('.box').hover(function () {        $(this).css("cursor","pointer")    },function () {        $(this).css("cursor","default")    })</script>
@@ -64,10 +64,10 @@ script>    var options =        {        valueNames: ['name', 'spec']         };
 
 Alors voilà un peu d'explications :
 
-var option permet de définir sur quoi on va filtrer les résultats. var user-list est utilisé pour créer la liste de résultat. Ensuite on utilise JQuery pour récupérer les valeurs :
+var option permet de_ définir sur quoi on va filtrer les résultats_. var user-list est utilisé pour créer la liste de résultat. Ensuite on utilise _JQuery pour récupérer les valeurs _:
 
 on vérifie si les checkboxes sont cochées, on récupère les valeurs de celles-ci. On  compare ensuite ces valeurs et on retourne un résultat ou pas.
 
-Et voilà ! Alors oui ce code n'est pas très joli, joli, c'est un peu dégueu je le concède mais comme je suis une newbie, j'ai fait au mieux ! Alors si un "expert" passe par-là et à des conseils pour reformater ça un peu mieux je suis preneuse ! 
+Et voilà ! Alors oui **ce code n'est pas très joli, joli, c'est un peu dégueu même **je le concède mais comme je suis une newbie, j'ai fait au mieux ! Alors si un "expert" passe par-là et à des conseils pour reformater ça un peu mieux je suis preneuse ! 
 
 Sur-ce bonne journée les ptits amis du net et à la prochaine pour une autre péripétie !!
