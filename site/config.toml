@@ -15,7 +15,7 @@ paginate = 10
 	description = "Les pérégrinations d'une jeune dev !"
 
 	# Format dates with Go's time formatting
-	date_format = "%d %m %Y"
+	date_format = "02-01-2006"
 
 	# Add custom assets with their paths relative to the static folder
 	custom_js   = []
