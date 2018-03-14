@@ -18,8 +18,6 @@ Donc la solution : créer une classe Auth dans mon thème dans le dossier inc po
 
 Je crée donc un dossier "registerTest" dans mon dossier "inc" de mon theme. Puis je crée une classe "Auth". Celle-ci va avoir un : namespace "ForumAlex\RegisterTest"; puis j'utilise Elementor donc une jolie collection de Use :
 
-
-
 ```
 use Elementor\Widget_Base;
 ```
@@ -40,11 +38,7 @@ use Elementor\Group_Control_Border;
 use Elementor\Group_Control_Box_Shadow;
 ```
 
-
-
 Ma class extends de Widget_Base :
-
-
 
 ```
 class Auth extends Widget_Base 
@@ -1545,8 +1539,6 @@ class Auth extends Widget_Base
 ```
 }
 ```
-
-
 
 Ensuite mon widget Auth va apparaître dans ma base de widget d'elementor :
 
