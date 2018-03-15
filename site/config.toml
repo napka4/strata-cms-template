@@ -55,10 +55,10 @@ paginate = 10
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "fulls/01.jpg"
-			thumb = "thumbs/01.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "fulls/atelierbig.jpg"
+			thumb = "thumbs/atelier.jpg"
+			title = "Atelier du Jardin 60"
+			description = "Site e-commerce sous Prestashop. Développement complet de la boutique"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
