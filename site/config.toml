@@ -58,13 +58,13 @@ paginate = 10
 			image = "fulls/atelierbig.jpg"
 			thumb = "thumbs/ateliermin.png"
 			title = "Atelier du Jardin 60"
-			description = "Site e-commerce sous Prestashop. Développement complet de la boutique"
+			description = "Site e-commerce sous Prestashop. Développement complet de la boutique, thème de base"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/02.jpg"
-			thumb = "thumbs/02.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "fulls/2rouescassbig.jpg"
+			thumb = "thumbs/2rouescassmin.jpg"
+			title = "2RouesCass"
+			description = "Site e-commerce sous Prestashop. Développement complet de la boutique, thème de base 1.7."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
