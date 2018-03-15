@@ -48,6 +48,10 @@ paginate = 10
 		title = "Les aventures trépidantes d'une jeune dév !"
 		content = "Jeune développeuse (sa reconversion date d'avril 2017), Super Alex avait envie d'un espace à elle pour tester, rapporter et partager ses trouvailles. Quelles soient en lien avec le développement ou non ! Alors bienvenue dans mon bac à sable !"
 
+	[params.recentposts]
+    	hide  = false
+    	title = "Mes derniers blabla :"
+
 	[params.portfolio]
 		hide  = false
 		title = "Ce que j'ai fait dernièrement !"
@@ -91,10 +95,6 @@ paginate = 10
 			thumb = "thumbs/06.jpg"
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
-
-	[params.recentposts]
-		hide  = false
-		title = "Mes derniers blabla :"
 
 	[params.contact]
 		hide  = false
