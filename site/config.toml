@@ -82,8 +82,9 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
 			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Le Salon des Gentlemen"
+			description = "Réalisation complète sous Wordpress"
+			url = "http://lesalondesgentlemen.fr/"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
