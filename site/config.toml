@@ -56,7 +56,7 @@ paginate = 10
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
 			image = "fulls/atelierbig.jpg"
-			thumb = "thumbs/atelier.jpg"
+			thumb = "thumbs/ateliermin.png"
 			title = "Atelier du Jardin 60"
 			description = "Site e-commerce sous Prestashop. Développement complet de la boutique"
 
