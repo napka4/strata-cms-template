@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79b8871c-85dc-4c94-830d-ec293e72f327" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change beforePath="$PROJECT_DIR$/site/config.toml" afterPath="$PROJECT_DIR$/site/config.toml" />
-      <change beforePath="$PROJECT_DIR$/site/themes/hugo-strata-theme/static/images/fulls/Screenshot-2018-3-15 Atelier du Jardin, moteur briggs stratton occasion, tracteur tondeuse pièces occasion, autoporté piéce[...].jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/themes/hugo-strata-theme/static/images/thumbs/atelier.png" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +17,8 @@
       <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="60" column="96" lean-forward="false" selection-start-line="60" selection-start-column="96" selection-end-line="60" selection-end-column="96" />
+            <state relative-caret-position="306">
+              <caret line="66" column="55" lean-forward="true" selection-start-line="66" selection-start-column="55" selection-end-line="66" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -155,12 +152,12 @@
       <workItem from="1520514509601" duration="2060000" />
       <workItem from="1520844581221" duration="720000" />
       <workItem from="1520929665609" duration="13000" />
-      <workItem from="1521108793291" duration="302000" />
+      <workItem from="1521108793291" duration="907000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3095000" />
+    <option name="totallyTimeSpent" value="3700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="3" width="1936" height="1056" extended-state="6" />
@@ -295,8 +292,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="60" column="96" lean-forward="false" selection-start-line="60" selection-start-column="96" selection-end-line="60" selection-end-column="96" />
+        <state relative-caret-position="306">
+          <caret line="66" column="55" lean-forward="true" selection-start-line="66" selection-start-column="55" selection-end-line="66" selection-end-column="55" />
           <folding />
         </state>
       </provider>
