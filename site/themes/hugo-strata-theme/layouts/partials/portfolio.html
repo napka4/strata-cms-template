@@ -7,6 +7,7 @@
 			<a href="{{ $.Site.BaseURL }}images/{{ .image }}" class="image fit thumb"><img src="{{ $.Site.BaseURL }}images/{{ .thumb }}" alt="" /></a>
 			<h3>{{ .title | markdownify }}</h3>
 			<p>{{ .description | markdownify }}</p>
+			<a href="{{ .url | markdownify }}"></a>
 		</article>
 		{{ end }}
 	</div>

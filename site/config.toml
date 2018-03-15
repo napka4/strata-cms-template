@@ -59,12 +59,14 @@ paginate = 10
 			thumb = "thumbs/ateliermin.png"
 			title = "Atelier du Jardin 60"
 			description = "Site e-commerce sous Prestashop. Développement complet de la boutique, thème de base"
+			url = "http://atelierdujardin60.fr"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/2rouescassbig.jpg"
 			thumb = "thumbs/2rouescassmin.jpg"
 			title = "2RouesCass"
 			description = "Site e-commerce sous Prestashop. Développement complet de la boutique, thème de base 1.7."
+			url = "http://2rouescass.com"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
