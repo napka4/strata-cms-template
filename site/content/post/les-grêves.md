@@ -14,4 +14,4 @@ Alors cheminots, essayer de faire chier plutôt ceux que vous viser : Les patron
 
 Car oui, se retrouver coincé x temps, x jours dans l'année c'est une vraie galère, moi je m'en fiche un peu, mon boulot me permet de bosser chez moi quand je ne peux pas m'y rendre, mais imaginez ceux qui ne peuvent faire autremement ! C'est une sacré organisation entre les mômes, les correspondances, les covoit ect !
 
-Alors amis grêvistes fais la grêve oui, mais fais-la bien !
+Alors ami grêviste fais la grêve oui, mais fais-la bien !
