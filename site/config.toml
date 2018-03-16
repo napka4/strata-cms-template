@@ -80,8 +80,8 @@ paginate = 10
 			url = "http://www.autrement-tapisserie.fr/"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
+			image = "fulls/gentlemenbig.png"
+			thumb = "thumbs/gentlemenmin.png"
 			title = "Le Salon des Gentlemen"
 			description = "Réalisation complète sous Wordpress"
 			url = "http://lesalondesgentlemen.fr/"
