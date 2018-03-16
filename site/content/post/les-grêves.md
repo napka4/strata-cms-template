@@ -1,10 +1,10 @@
 ---
-title: Les grêves !
+title: Les grèves !
 date: '2018-03-16T12:31:43+01:00'
 ---
-Bon allez je poste un truc complétement à côté du sujet Web, car je vais parler un peu de cette grêve que les cheminots nous annoncent !
+Bon allez je poste un truc complétement à côté du sujet Web, car je vais parler un peu de cette grève que les cheminots nous annoncent !
 
-La grêve c'est bien, ça permet de s'exprimer, de montrer à son patron que l'on est pas d'accord avec lui quand les voies traditionnelles de communication n'ont pas réussies à aboutir. La dessus pas de problème ! Là où ça coince c'est lorsque l'on décide de prendre en otages les usagers des services que l'on produits.
+La grève c'est bien, ça permet de s'exprimer, de montrer à son patron que l'on est pas d'accord avec lui quand les voies traditionnelles de communication n'ont pas réussies à aboutir. La dessus pas de problème ! Là où ça coince c'est lorsque l'on décide de prendre en otages les usagers des services que l'on produits.
 
 Ici les usagers de trains, qui eux n'ont rien demandé et veulent bosser pour répondre à des impératifs que l'on connaît (argent, emploi...). Prendre en otages les usagers, ce n'est pas franchement mettre l'opinion de son côté, c'est même tout l'inverse. Les gens râlent, grognent et finalement en veulent plus aux "cheminots grêvistes" qu'autre chose. La cause pour laquelle le grêviste se bat, passe complétement à la trappe, et l'on assiste à un déferlement de haine envers eux. "Ouais ils foutent rien! c'est facile d'être en grêve quand on à pas à s'inquièter de son salaire ...."
 
@@ -14,4 +14,4 @@ Alors cheminots, essayer de faire chier plutôt ceux que vous viser : Les patron
 
 Car oui, se retrouver coincé x temps, x jours dans l'année c'est une vraie galère, moi je m'en fiche un peu, mon boulot me permet de bosser chez moi quand je ne peux pas m'y rendre, mais imaginez ceux qui ne peuvent faire autremement ! C'est une sacré organisation entre les mômes, les correspondances, les covoit ect !
 
-Alors ami grêviste fais la grêve oui, mais fais-la bien !
+Alors amis grèvistes fais la grève oui, mais fais-la bien !
