@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "fr-fr"
-title = "Super Alex ,le Blog"
+title = "Super Alex , le Blog"
 theme = "hugo-strata-theme"
 disqusShortname = "super-alex-blog"
 # Enable Google Analytics by inserting your tracking code
@@ -38,7 +38,7 @@ paginate = 10
 
 		copyright = [
 			"&copy; Super Alex",
-			"Design: with &hearts;",
+			"Design: with &hearts; in Paris",
 			"Images: Super Alex ou libre de droits"
 		]
 
@@ -95,8 +95,9 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "EVI AUDIO"
+			description = "Mise à jour du site, maintenance sur Joomla"
+			url = "http://www.eviaudio.fr/"
 
 	[params.contact]
 		hide  = false

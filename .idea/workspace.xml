@@ -18,8 +18,8 @@
           <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/site/config.toml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="680">
-                  <caret line="92" column="80" lean-forward="true" selection-start-line="92" selection-start-column="80" selection-end-line="92" selection-end-column="80" />
+                <state relative-caret-position="646">
+                  <caret line="99" column="42" lean-forward="false" selection-start-line="99" selection-start-column="42" selection-end-line="99" selection-end-column="42" />
                   <folding />
                 </state>
               </provider>
@@ -42,7 +42,7 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/partials/portfolio.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="119">
@@ -52,11 +52,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="config.toml" pinned="false" current-in-tab="false">
+          <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/site/config.toml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1530">
-                  <caret line="90" column="37" lean-forward="false" selection-start-line="90" selection-start-column="37" selection-end-line="90" selection-end-column="37" />
+                <state relative-caret-position="578">
+                  <caret line="40" column="43" lean-forward="false" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
                   <folding />
                 </state>
               </provider>
@@ -216,12 +216,12 @@
       <workItem from="1520844581221" duration="720000" />
       <workItem from="1520929665609" duration="13000" />
       <workItem from="1521108793291" duration="7651000" />
-      <workItem from="1521206221602" duration="815000" />
+      <workItem from="1521206221602" duration="984000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11259000" />
+    <option name="totallyTimeSpent" value="11428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="3" width="1936" height="1056" extended-state="6" />
@@ -445,8 +445,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="92" column="80" lean-forward="true" selection-start-line="92" selection-start-column="80" selection-end-line="92" selection-end-column="80" />
+        <state relative-caret-position="646">
+          <caret line="99" column="42" lean-forward="false" selection-start-line="99" selection-start-column="42" selection-end-line="99" selection-end-column="42" />
           <folding />
         </state>
       </provider>
