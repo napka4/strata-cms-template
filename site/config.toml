@@ -87,10 +87,10 @@ paginate = 10
 			url = "http://lesalondesgentlemen.fr/"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "fulls/efs1.png"
+			thumb = "thumbs/efs2.png"
+			title = "Etablissement Français du Sang - EFS"
+			description = "Mailing EFS, réalisation du mailing responsive HTML5"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
