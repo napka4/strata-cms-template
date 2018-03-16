@@ -13,7 +13,11 @@
 		{{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
     	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
     	{{ with .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
-
+<meta property="og:url"           content="https://blogsuperalex.netlify.com" />
+  <meta property="og:type"          content="website" />
+  <meta property="og:title"         content="Super Alex, le Blog" />
+  <meta property="og:description"   content="Les pérégrinations d'une jeune dev" />
+  <meta property="og:image"         content="https://blogsuperalex.netlify.com/images/avatar.png" />
 		{{ .Hugo.Generator }}
 
 		{{ "<!--[if lte IE 8]><script src='{{ .Site.BaseURL }}js/ie/html5shiv.js'></script><![endif]-->" | safeHTML}}
