@@ -4,7 +4,6 @@
     <list default="true" id="79b8871c-85dc-4c94-830d-ec293e72f327" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/site/static/timeline/timeline.html" afterPath="$PROJECT_DIR$/site/static/timeline/timeline.html" />
       <change beforePath="$PROJECT_DIR$/site/themes/hugo-strata-theme/static/css/timeline.css" afterPath="$PROJECT_DIR$/site/themes/hugo-strata-theme/static/css/timeline.css" />
-      <change beforePath="$PROJECT_DIR$/site/themes/hugo-strata-theme/static/js/timeline.js" afterPath="$PROJECT_DIR$/site/themes/hugo-strata-theme/static/js/timeline.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,14 +14,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="timeline.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="timeline.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site/static/timeline/timeline.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2804">
-              <caret line="182" column="6" lean-forward="false" selection-start-line="182" selection-start-column="6" selection-end-line="182" selection-end-column="6" />
+            <state relative-caret-position="238">
+              <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
               <folding>
-                <element signature="n#style#0;n#svg#0;n#div#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#div#0;n#ul#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#1077#1083#0" expanded="true" />
+                <element signature="e#1399#1405#0" expanded="true" />
+                <element signature="e#1728#1734#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -32,13 +32,13 @@
         <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/static/css/timeline.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="815">
-              <caret line="165" column="1" lean-forward="false" selection-start-line="165" selection-start-column="1" selection-end-line="165" selection-end-column="1" />
+              <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="timeline.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="timeline.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/static/js/timeline.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="782">
@@ -101,9 +101,9 @@
         <option value="$PROJECT_DIR$/site/config.toml" />
         <option value="$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/timeline.html" />
         <option value="$PROJECT_DIR$/site/content/timeline/timeline.md" />
-        <option value="$PROJECT_DIR$/site/static/timeline/timeline.html" />
-        <option value="$PROJECT_DIR$/site/themes/hugo-strata-theme/static/css/timeline.css" />
         <option value="$PROJECT_DIR$/site/themes/hugo-strata-theme/static/js/timeline.js" />
+        <option value="$PROJECT_DIR$/site/themes/hugo-strata-theme/static/css/timeline.css" />
+        <option value="$PROJECT_DIR$/site/static/timeline/timeline.html" />
       </list>
     </option>
   </component>
@@ -305,12 +305,12 @@
       <workItem from="1520929665609" duration="13000" />
       <workItem from="1521108793291" duration="7651000" />
       <workItem from="1521206221602" duration="3162000" />
-      <workItem from="1521455876211" duration="11525000" />
+      <workItem from="1521455876211" duration="11764000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25131000" />
+    <option name="totallyTimeSpent" value="25370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="3" width="1936" height="1056" extended-state="6" />
@@ -754,30 +754,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/static/timeline/timeline.html">
+    <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/static/js/timeline.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2804">
-          <caret line="182" column="6" lean-forward="false" selection-start-line="182" selection-start-column="6" selection-end-line="182" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#svg#0;n#div#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#div#0;n#ul#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="782">
+          <caret line="46" column="2" lean-forward="false" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/static/css/timeline.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="815">
-          <caret line="165" column="1" lean-forward="false" selection-start-line="165" selection-start-column="1" selection-end-line="165" selection-end-column="1" />
+          <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/static/js/timeline.js">
+    <entry file="file://$PROJECT_DIR$/site/static/timeline/timeline.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="2" lean-forward="false" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
-          <folding />
+        <state relative-caret-position="238">
+          <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding>
+            <element signature="e#1077#1083#0" expanded="true" />
+            <element signature="e#1399#1405#0" expanded="true" />
+            <element signature="e#1728#1734#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
