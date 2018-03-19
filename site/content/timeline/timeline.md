@@ -47,6 +47,6 @@
     </div>
 </div>
 +++
-type = "timeline"
+type = "page"
 page = "timeline/timeline.html"
 +++
