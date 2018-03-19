@@ -144,6 +144,8 @@ paginate = 10
 	identifier = "timeline"
 	url  = "/timeline/"
 	weight = 5
+	[permalinks]
+	    timeline = "/timeline/"
 
 [[menu.main]]
 	name = "Blog"
