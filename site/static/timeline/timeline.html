@@ -20,15 +20,15 @@
     <meta property="og:image"         content="https://blogsuperalex.netlify.com/images/avatar.png" />
     {{ .Hugo.Generator }}
 
-    {{ "<!--[if lte IE 8]><script src='{{ .Site.BaseURL }}js/ie/html5shiv.js'></script><![endif]-->" | safeHTML}}
+    {{ "<!--[if lte IE 8]><script src='https://blogsuperalex.netlify.com/js/ie/html5shiv.js'></script><![endif]-->" | safeHTML}}
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" type="text/css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css" />
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/timeline.css" />
-    <script src='{{ .Site.BaseURL }}js/timeline.js'></script>
-    {{ "<!--[if lte IE 8]><link rel='stylesheet' href='{{ .Site.BaseURL }}/css/ie8.css' /><![endif]-->" | safeHTML}}
+    <link rel="stylesheet" href="https://blogsuperalex.netlify.com/css/main.css" />
+    <link rel="stylesheet" href="https://blogsuperalex.netlify.com/css/timeline.css" />
+    <script src='https://blogsuperalex.netlify.com/js/timeline.js'></script>
+    {{ "<!--[if lte IE 8]><link rel='stylesheet' href='https://blogsuperalex.netlify.com//css/ie8.css' /><![endif]-->" | safeHTML}}
 
     {{ range .Site.Params.custom_css }}
-    <link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
+    <link rel="stylesheet" href="https://blogsuperalex.netlify.com/{{ . }}">
     {{ end }}
 </head>
 
@@ -108,7 +108,7 @@
             <li><a href="//flickr.com/photos/{{ . }}" target="_blank" class="icon fa-flickr"><span class="label">Flickr</span></a></li>
             {{ end }}
             {{ with .Site.Params.contact.email }}
-            <li><a href="{{ $.Site.BaseURL }}#contact-form" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+            <li><a href="https://blogsuperalex.netlify.com/#contact-form" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
             {{ end }}
         </ul>
 
@@ -136,17 +136,17 @@
          data-action="like"
          data-show-faces="true">
     </div>
-    <script src="{{ .Site.BaseURL }}js/jquery.min.js"></script>
-    <script src="{{ .Site.BaseURL }}js/jquery.poptrox.min.js"></script>
-    <script src="{{ .Site.BaseURL }}js/skel.min.js"></script>
-    <script src="{{ .Site.BaseURL }}js/util.js"></script>
-    <!--[if lte IE 8]><script src="{{ .Site.BaseURL }}js/ie/respond.min.js"></script><![endif]-->
-    <script src="{{ .Site.BaseURL }}js/main.js"></script>
+    <script src="https://blogsuperalex.netlify.com/js/jquery.min.js"></script>
+    <script src="https://blogsuperalex.netlify.com/js/jquery.poptrox.min.js"></script>
+    <script src="https://blogsuperalex.netlify.com/js/skel.min.js"></script>
+    <script src="https://blogsuperalex.netlify.com/js/util.js"></script>
+    <!--[if lte IE 8]><script src="https://blogsuperalex.netlify.com/js/ie/respond.min.js"></script><![endif]-->
+    <script src="https://blogsuperalex.netlify.com/js/main.js"></script>
 
     {{ template "_internal/google_analytics_async.html" . }}
 
     {{ range .Site.Params.custom_js }}
-    <script src="{{ $.Site.BaseURL }}{{ . }}"></script>
+    <script src="https://blogsuperalex.netlify.com/{{ . }}"></script>
     {{ end }}
 
 
