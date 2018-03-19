@@ -2,6 +2,5 @@
 	<header class="major">
 		{{ with .Site.Params.about.title }}<h2>{{ . | markdownify }}</h2>{{ end }}
 	</header>
-	{{ partial "timeline" .  }}
-	{{ end }}
+	<div>{{ partial "timeline" .  }}</div> {{ end }}
 </section>
