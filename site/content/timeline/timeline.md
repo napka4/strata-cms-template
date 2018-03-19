@@ -46,7 +46,3 @@
         </div>
     </div>
 </div>
-+++
-type = "page"
-page = "timeline/timeline.html"
-+++
