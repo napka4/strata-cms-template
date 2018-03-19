@@ -1,35 +1,25 @@
 <!DOCTYPE HTML>
-
-{{ "<!-- " | safeHTML }}
-{{ "Strata by HTML5 UP" | safeHTML }}
-{{ "html5up.net | @n33co" | safeHTML }}
-{{ "Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)" | safeHTML }}
-{{ "-->" | safeHTML }}
 <html>
 <head>
-    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
+    <title>Super Alex, le Blog | En savoir plus sur moi</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    {{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
-    {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
-    {{ with .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
     <meta property="og:url"           content="https://blogsuperalex.netlify.com" />
     <meta property="og:type"          content="website" />
     <meta property="og:title"         content="Super Alex, le Blog" />
     <meta property="og:description"   content="Les pérégrinations d'une jeune dev" />
     <meta property="og:image"         content="https://blogsuperalex.netlify.com/images/avatar.png" />
-    {{ .Hugo.Generator }}
 
-    {{ "<!--[if lte IE 8]><script src='https://blogsuperalex.netlify.com/js/ie/html5shiv.js'></script><![endif]-->" | safeHTML}}
+<!--[if lte IE 8]><script src='https://blogsuperalex.netlify.com/js/ie/html5shiv.js'></script><![endif]-->
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" type="text/css">
     <link rel="stylesheet" href="https://blogsuperalex.netlify.com/css/main.css" />
     <link rel="stylesheet" href="https://blogsuperalex.netlify.com/css/timeline.css" />
     <script src='https://blogsuperalex.netlify.com/js/timeline.js'></script>
-    {{ "<!--[if lte IE 8]><link rel='stylesheet' href='https://blogsuperalex.netlify.com//css/ie8.css' /><![endif]-->" | safeHTML}}
+<!--[if lte IE 8]><link rel='stylesheet' href='https://blogsuperalex.netlify.com//css/ie8.css' /><![endif]-->
 
-    {{ range .Site.Params.custom_css }}
+
     <link rel="stylesheet" href="https://blogsuperalex.netlify.com/{{ . }}">
-    {{ end }}
+
 </head>
 
 <body id="main">
@@ -83,43 +73,34 @@
     </div>
 </div>
 
-    {{ "<!-- Footer -->" | safeHTML }}
     <footer id="footer">
         <ul class="icons">
-            {{ with .Site.Params.sidebar.googleplus }}
             <li><a href="//plus.google.com/+{{ . }}" target="_blank" class="icon fa-google-plus"><span class="label">Google Plus</span></a></li>
-            {{ end }}
-            {{ with .Site.Params.sidebar.facebook }}
+
             <li><a href="//facebook.com/{{ . }}" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-            {{ end }}
-            {{ with .Site.Params.sidebar.twitter }}
+
             <li><a href="//twitter.com/{{ . }}" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-            {{ end }}
-            {{ with .Site.Params.sidebar.github }}
+
             <li><a href="//github.com/{{ . }}" target="_blank" class="icon fa-github"><span class="label">Github</span></a></li>
-            {{ end }}
-            {{ with .Site.Params.sidebar.linkedin }}
+
             <li><a href="//linkedin.com/in/{{ . }}" target="_blank" class="icon fa-linkedin-square"><span class="label">Linkedin</span></a></li>
-            {{ end }}
-            {{ with .Site.Params.sidebar.dribbble }}
+
             <li><a href="//dribbble.com/{{ . }}" target="_blank" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-            {{ end }}
-            {{ with .Site.Params.sidebar.flickr }}
+
             <li><a href="//flickr.com/photos/{{ . }}" target="_blank" class="icon fa-flickr"><span class="label">Flickr</span></a></li>
-            {{ end }}
-            {{ with .Site.Params.contact.email }}
+
             <li><a href="https://blogsuperalex.netlify.com/#contact-form" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
-            {{ end }}
+
         </ul>
 
         <ul class="copyright">
-            {{ range .Site.Params.sidebar.copyright }}
-            <li>{{ . | markdownify }}</li>
-            {{ end }}
+
+            <li></li>
+
         </ul>
     </footer>
 
-    {{ "<!-- Scripts -->" | safeHTML }}
+
     <div id="fb-root"></div>
     <script>(function(d, s, id) {
         var js, fjs = d.getElementsByTagName(s)[0];
@@ -143,11 +124,11 @@
     <!--[if lte IE 8]><script src="https://blogsuperalex.netlify.com/js/ie/respond.min.js"></script><![endif]-->
     <script src="https://blogsuperalex.netlify.com/js/main.js"></script>
 
-    {{ template "_internal/google_analytics_async.html" . }}
 
-    {{ range .Site.Params.custom_js }}
+
+
     <script src="https://blogsuperalex.netlify.com/{{ . }}"></script>
-    {{ end }}
+
 
 
 </body>

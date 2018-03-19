@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79b8871c-85dc-4c94-830d-ec293e72f327" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/site/content/timeline/timeline.md" afterPath="$PROJECT_DIR$/site/content/timeline/timeline.md" />
-      <change beforePath="$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/timeline.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/timeline/timeline.html" afterPath="$PROJECT_DIR$/site/static/timeline/timeline.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="timeline.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site/static/timeline/timeline.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2516">
-              <caret line="148" column="51" lean-forward="false" selection-start-line="148" selection-start-column="51" selection-end-line="148" selection-end-column="51" />
+            <state relative-caret-position="680">
+              <caret line="130" column="0" lean-forward="true" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -85,8 +84,8 @@
         <option value="$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/partials/timeline.html" />
         <option value="$PROJECT_DIR$/site/config.toml" />
         <option value="$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/timeline.html" />
-        <option value="$PROJECT_DIR$/site/static/timeline/timeline.html" />
         <option value="$PROJECT_DIR$/site/content/timeline/timeline.md" />
+        <option value="$PROJECT_DIR$/site/static/timeline/timeline.html" />
       </list>
     </option>
   </component>
@@ -279,12 +278,12 @@
       <workItem from="1520929665609" duration="13000" />
       <workItem from="1521108793291" duration="7651000" />
       <workItem from="1521206221602" duration="3162000" />
-      <workItem from="1521455876211" duration="8893000" />
+      <workItem from="1521455876211" duration="9345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22499000" />
+    <option name="totallyTimeSpent" value="22951000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="3" width="1936" height="1056" extended-state="6" />
@@ -749,8 +748,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/static/timeline/timeline.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2516">
-          <caret line="148" column="51" lean-forward="false" selection-start-line="148" selection-start-column="51" selection-end-line="148" selection-end-column="51" />
+        <state relative-caret-position="680">
+          <caret line="130" column="0" lean-forward="true" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
