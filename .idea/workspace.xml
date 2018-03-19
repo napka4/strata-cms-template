@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79b8871c-85dc-4c94-830d-ec293e72f327" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/strata-cms-template.iml" afterPath="$PROJECT_DIR$/.idea/strata-cms-template.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/site/static/timeline/timeline.html" afterPath="$PROJECT_DIR$/site/static/timeline/timeline.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +16,8 @@
       <file leaf-file-name="timeline.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site/static/timeline/timeline.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1103">
-              <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+            <state relative-caret-position="1275">
+              <caret line="75" column="14" lean-forward="false" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -290,12 +287,12 @@
       <workItem from="1520929665609" duration="13000" />
       <workItem from="1521108793291" duration="7651000" />
       <workItem from="1521206221602" duration="3162000" />
-      <workItem from="1521455876211" duration="10885000" />
+      <workItem from="1521455876211" duration="11025000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24491000" />
+    <option name="totallyTimeSpent" value="24631000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="3" width="1936" height="1056" extended-state="6" />
@@ -760,8 +757,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/static/timeline/timeline.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1103">
-          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        <state relative-caret-position="1275">
+          <caret line="75" column="14" lean-forward="false" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
