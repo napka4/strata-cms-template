@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79b8871c-85dc-4c94-830d-ec293e72f327" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/site/static/timeline/timeline.html" afterPath="$PROJECT_DIR$/site/static/timeline/timeline.html" />
+      <change beforePath="$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/partials/head.html" afterPath="$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/partials/head.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +13,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="timeline.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="timeline.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/static/timeline/timeline.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="631">
               <caret line="47" column="56" lean-forward="false" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/partials/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -33,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/index.html">
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/partials/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="408">
+              <caret line="24" column="72" lean-forward="false" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -64,7 +74,6 @@
         <option value="$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/index.html" />
         <option value="$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/partials/contact.html" />
         <option value="$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/_default/single.html" />
-        <option value="$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/partials/head.html" />
         <option value="$PROJECT_DIR$/site/content/about.md" />
         <option value="$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/404.html" />
         <option value="$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/partials/about.html" />
@@ -76,6 +85,7 @@
         <option value="$PROJECT_DIR$/site/themes/hugo-strata-theme/static/css/timeline.css" />
         <option value="$PROJECT_DIR$/site/config.toml" />
         <option value="$PROJECT_DIR$/site/static/timeline/timeline.html" />
+        <option value="$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/partials/head.html" />
       </list>
     </option>
   </component>
@@ -188,6 +198,24 @@
             </path>
             <path>
               <item name="strata-cms-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strata-cms-template" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="hugo-strata-theme" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_default" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="strata-cms-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strata-cms-template" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="hugo-strata-theme" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="strata-cms-template" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
             </path>
             <path>
@@ -252,12 +280,12 @@
       <workItem from="1520929665609" duration="13000" />
       <workItem from="1521108793291" duration="7651000" />
       <workItem from="1521206221602" duration="3162000" />
-      <workItem from="1521455876211" duration="13372000" />
+      <workItem from="1521455876211" duration="13517000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26978000" />
+    <option name="totallyTimeSpent" value="27123000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="3" width="1936" height="1056" extended-state="6" />
@@ -591,22 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/_default/baseof.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/partials/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/partials/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -627,14 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/partials/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -701,10 +705,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/config.toml">
+    <entry file="file://$PROJECT_DIR$/site/static/timeline/timeline.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
-          <caret line="145" column="14" lean-forward="true" selection-start-line="145" selection-start-column="14" selection-end-line="145" selection-end-column="14" />
+        <state relative-caret-position="631">
+          <caret line="47" column="56" lean-forward="false" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/partials/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -717,10 +729,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/static/timeline/timeline.html">
+    <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/_default/baseof.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="47" column="56" lean-forward="false" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="145" column="14" lean-forward="true" selection-start-line="145" selection-start-column="14" selection-end-line="145" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/partials/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="72" lean-forward="false" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
           <folding />
         </state>
       </provider>
