@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="79b8871c-85dc-4c94-830d-ec293e72f327" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/site/static/timeline/timeline.html" afterPath="$PROJECT_DIR$/site/static/timeline/timeline.html" />
-      <change beforePath="$PROJECT_DIR$/site/themes/hugo-strata-theme/static/css/timeline.css" afterPath="$PROJECT_DIR$/site/themes/hugo-strata-theme/static/css/timeline.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,23 +13,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="timeline.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="timeline.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site/static/timeline/timeline.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="169">
-              <caret line="41" column="32" lean-forward="true" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+              <caret line="41" column="42" lean-forward="true" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#4399#4407#0" expanded="true" />
+                <element signature="e#4409#4417#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="timeline.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="timeline.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/static/css/timeline.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
+            <state relative-caret-position="-27733">
               <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
               <folding />
             </state>
@@ -106,8 +105,8 @@
         <option value="$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/partials/head.html" />
         <option value="$USER_HOME$/Downloads/newsIL30.html" />
         <option value="$PROJECT_DIR$/site/config.toml" />
-        <option value="$PROJECT_DIR$/site/static/timeline/timeline.html" />
         <option value="$PROJECT_DIR$/site/themes/hugo-strata-theme/static/css/timeline.css" />
+        <option value="$PROJECT_DIR$/site/static/timeline/timeline.html" />
       </list>
     </option>
   </component>
@@ -301,12 +300,12 @@
       <workItem from="1521206221602" duration="3162000" />
       <workItem from="1521455876211" duration="17087000" />
       <workItem from="1521554070072" duration="788000" />
-      <workItem from="1521619738379" duration="5240000" />
+      <workItem from="1521619738379" duration="5494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36721000" />
+    <option name="totallyTimeSpent" value="36975000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="3" width="1936" height="1056" extended-state="6" />
@@ -710,22 +709,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/static/timeline/timeline.html">
+    <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/static/css/timeline.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="41" column="32" lean-forward="true" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4399#4407#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-27733">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/static/css/timeline.css">
+    <entry file="file://$PROJECT_DIR$/site/static/timeline/timeline.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="169">
+          <caret line="41" column="42" lean-forward="true" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4409#4417#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
