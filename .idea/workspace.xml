@@ -16,11 +16,11 @@
       <file leaf-file-name="timeline.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site/static/timeline/timeline.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
-              <caret line="65" column="9" lean-forward="true" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+            <state relative-caret-position="458">
+              <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#4417#4425#0" expanded="true" />
+                <element signature="e#4438#4446#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -29,7 +29,7 @@
       <file leaf-file-name="timeline.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/static/css/timeline.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-27733">
+            <state relative-caret-position="391">
               <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
               <folding />
             </state>
@@ -300,12 +300,12 @@
       <workItem from="1521206221602" duration="3162000" />
       <workItem from="1521455876211" duration="17087000" />
       <workItem from="1521554070072" duration="788000" />
-      <workItem from="1521619738379" duration="5638000" />
+      <workItem from="1521619738379" duration="5801000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37119000" />
+    <option name="totallyTimeSpent" value="37282000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="3" width="1936" height="1056" extended-state="6" />
@@ -711,7 +711,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/static/css/timeline.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27733">
+        <state relative-caret-position="391">
           <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
           <folding />
         </state>
@@ -719,11 +719,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/static/timeline/timeline.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="65" column="9" lean-forward="true" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+        <state relative-caret-position="458">
+          <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4417#4425#0" expanded="true" />
+            <element signature="e#4438#4446#0" expanded="true" />
           </folding>
         </state>
       </provider>
