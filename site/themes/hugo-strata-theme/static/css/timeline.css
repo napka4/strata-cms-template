@@ -15,7 +15,7 @@ body {
     /* IE6-9 */
 }
 
-.container ul {
+.container2 ul {
     margin: 0;
     margin-top: 100px;
     list-style: none;
@@ -24,14 +24,14 @@ body {
     color: #fff;
     font-size: 13px;
 }
-.container ul:before {
+.container2 ul:before {
     content: "";
     width: 1px;
     height: 100%;
     position: absolute;
     border-left: 2px dashed #fff;
 }
-.container ul li {
+.container2 ul li {
     position: relative;
     margin-left: 30px;
     background-color: rgba(255, 255, 255, 0.2);
@@ -40,10 +40,10 @@ body {
     width: 250px;
     box-shadow: 0 0 4px rgba(0, 0, 0, 0.12), 0 2px 2px rgba(0, 0, 0, 0.08);
 }
-.container ul li:not(:first-child) {
+.container2 ul li:not(:first-child) {
     margin-top: 60px;
 }
-.container ul li > span {
+.container2 ul li > span {
     width: 2px;
     height: 100%;
     background: #fff;
@@ -51,7 +51,7 @@ body {
     top: 0;
     position: absolute;
 }
-.container ul li > span:before, .container ul li > span:after {
+.container2 ul li > span:before, .container2 ul li > span:after {
     content: "";
     width: 8px;
     height: 8px;
@@ -62,35 +62,35 @@ body {
     left: -5px;
     top: 0;
 }
-.container ul li span:after {
+.container2 ul li span:after {
     top: 100%;
 }
-.container ul li > div {
+.container2 ul li > div {
     margin-left: 10px;
 }
-.container div .title, .container div .type {
+.container2 div .title, .container2 div .type {
     font-weight: 600;
     font-size: 12px;
 }
-.container div .info {
+.container2 div .info {
     font-weight: 300;
 }
-.container div > div {
+.container2 div > div {
     margin-top: 5px;
 }
-.container span.number {
+.container2 span.number {
     height: 100%;
 }
-.container span.number span {
+.container2 span.number span {
     position: absolute;
     font-size: 10px;
     left: -35px;
     font-weight: bold;
 }
-.container span.number span:first-child {
+.container2 span.number span:first-child {
     top: 0;
 }
-.container span.number span:last-child {
+.container2 span.number span:last-child {
     top: 100%;
 }
 
