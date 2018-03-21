@@ -142,7 +142,7 @@ paginate = 10
 [[menu.main]]
 	name = "About"
 	identifier = "timeline"
-	url  = "/timeline/"
+	url  = "/timeline/timeline.html"
 	weight = 5
 	[permalinks]
 	    timeline = "/timeline/timeline.html"
