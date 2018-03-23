@@ -140,7 +140,7 @@ paginate = 10
 	weight = 0
 
 [[menu.main]]
-	name = "About"
+	name = "Mon parcours"
 	identifier = "timeline"
 	url  = "/timeline/timeline.html"
 	weight = 5
