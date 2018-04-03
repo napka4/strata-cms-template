@@ -93,7 +93,7 @@ paginate = 10
 
 		[[params.portfolio.gallery]]
 			image = "fulls/eviaudio.png"
-			thumb = "thumbs/eviaudio2.png"
+			thumb = "thumbs/evi.png"
 			title = "EVI AUDIO"
 			description = "Mise à jour du site, maintenance sur Joomla"
 			url = "http://www.eviaudio.fr/"
