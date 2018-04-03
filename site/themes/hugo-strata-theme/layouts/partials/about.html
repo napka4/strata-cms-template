@@ -3,5 +3,5 @@
 		{{ with .Site.Params.about.title }}<h2>{{ . | markdownify }}</h2>{{ end }}
 	</header>
 
-	{{ partial "post-meta" .  }}<p>{{ . | markdownify }}</p>{{ end }}
+	{{ with .Site.Params.about.content }}<p>{{ . | markdownify }}</p>{{ end }}
 </section>

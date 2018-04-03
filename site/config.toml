@@ -42,7 +42,6 @@ paginate = 10
 			"Images: Super Alex ou libre de droits"
 		]
 
-
 	[params.about]
 		hide  = false
 		title = "Les aventures trépidantes d'une jeune dév !"
