@@ -37,9 +37,106 @@
       <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="95" column="36" lean-forward="true" selection-start-line="95" selection-start-column="36" selection-end-line="95" selection-end-column="36" />
+            <state relative-caret-position="416">
+              <caret line="99" column="0" lean-forward="true" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ajx_upload.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/prestashop1.7/ajx_upload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tpl_esperso_import_csv.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/prestashop1.7/tpl_esperso_import_csv.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="279" column="164" lean-forward="false" selection-start-line="278" selection-start-column="48" selection-end-line="278" selection-end-column="53" />
+              <folding>
+                <marker date="1522840397830" expanded="true" signature="472:480" ph="é" />
+                <marker date="1522840397830" expanded="true" signature="483:491" ph="à" />
+                <marker date="1522840397830" expanded="true" signature="2449:2457" ph="é" />
+                <marker date="1522840397830" expanded="true" signature="2458:2466" ph="é" />
+                <marker date="1522840397830" expanded="true" signature="2472:2480" ph="é" />
+                <marker date="1522840397830" expanded="true" signature="2562:2570" ph="é" />
+                <marker date="1522840397830" expanded="true" signature="2571:2579" ph="é" />
+                <marker date="1522840397830" expanded="true" signature="2585:2593" ph="é" />
+                <marker date="1522840397830" expanded="true" signature="3116:3189" ph="SELECT nom,p... ${$table}" />
+                <marker date="1522840397830" expanded="true" signature="12580:12588" ph="à" />
+                <marker date="1522840397830" expanded="true" signature="14443:14451" ph="é" />
+                <marker date="1522840397830" expanded="true" signature="14452:14460" ph="é" />
+                <marker date="1522840397830" expanded="true" signature="14466:14474" ph="é" />
+                <marker date="1522840397830" expanded="true" signature="14557:14565" ph="é" />
+                <marker date="1522840397830" expanded="true" signature="14566:14574" ph="é" />
+                <marker date="1522840397830" expanded="true" signature="14580:14588" ph="é" />
+                <marker date="1522840397830" expanded="true" signature="15568:15641" ph="SELECT nom,p... ${$table}" />
+                <marker date="1522840397830" expanded="true" signature="20955:20963" ph="à" />
+                <marker date="1522840397830" expanded="true" signature="22811:22819" ph="é" />
+                <marker date="1522840397830" expanded="true" signature="22820:22828" ph="é" />
+                <marker date="1522840397830" expanded="true" signature="22834:22842" ph="é" />
+                <marker date="1522840397830" expanded="true" signature="22924:22932" ph="é" />
+                <marker date="1522840397830" expanded="true" signature="22933:22941" ph="é" />
+                <marker date="1522840397830" expanded="true" signature="22947:22955" ph="é" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ajx_element_post.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/prestashop1.7/ajx_element_post.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-13054">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1522850299640" expanded="true" signature="1917:2267" ph="INSERT INTO ${$table}... " />
+                <marker date="1522850299640" expanded="true" signature="3178:3449" ph="SELECT COUNT... ${$table}" />
+                <marker date="1522850299640" expanded="true" signature="4120:4334" ph="SELECT COUNT... ${$table}" />
+                <marker date="1522850299640" expanded="true" signature="5404:5534" ph="SELECT COUNT... ${$table}" />
+                <marker date="1522850299640" expanded="true" signature="8171:8276" ph="SELECT COUNT... ${$table}" />
+                <marker date="1522850299640" expanded="true" signature="8538:8643" ph="SELECT COUNT... ${$table}" />
+                <marker date="1522850299640" expanded="true" signature="8905:9010" ph="SELECT COUNT... ${$table}" />
+                <marker date="1522850299640" expanded="true" signature="10967:11126" ph="SELECT COUNT... ${$table}" />
+                <marker date="1522850299640" expanded="true" signature="13738:13839" ph="SELECT COUNT... ${$table}" />
+                <marker date="1522850299640" expanded="true" signature="13982:14037" ph="SELECT cle,v... ${$table}" />
+                <marker date="1522850299640" expanded="true" signature="14395:14881" ph="INSERT INTO ${$table}... " />
+                <marker date="1522850299640" expanded="true" signature="20560:20776" ph="SELECT COUNT... ${$table}" />
+                <marker date="1522850299640" expanded="true" signature="20906:21491" ph="INSERT INTO ${$table}... " />
+                <marker date="1522850299640" expanded="true" signature="21641:21788" ph="INSERT INTO ${$table}... " />
+                <marker date="1522850299640" expanded="true" signature="22765:23075" ph="INSERT INTO ${$table}... " />
+                <marker date="1522850299640" expanded="true" signature="24211:24700" ph="INSERT INTO ${$table}... " />
+                <marker date="1522850299640" expanded="true" signature="25723:26019" ph="INSERT INTO ${$table}... " />
+                <marker date="1522850299640" expanded="true" signature="27129:27438" ph="INSERT INTO ${$table}... " />
+                <marker date="1522850299640" expanded="true" signature="32240:32492" ph="INSERT INTO ${$table}... " />
+                <marker date="1522850299640" expanded="true" signature="33969:34336" ph="INSERT INTO ${$table}... " />
+                <marker date="1522850299640" expanded="true" signature="34596:34705" ph="SELECT COUNT... ${$table}" />
+                <marker date="1522850299640" expanded="true" signature="34783:34968" ph="INSERT INTO ${$table}... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tpl_esperso_ajouter.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/prestashop1.7/tpl_esperso_ajouter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1071">
+              <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+              <folding>
+                <marker date="1522840646961" expanded="true" signature="294:467" ph="SELECT SUM(t... ${$table}" />
+                <marker date="1522840646961" expanded="true" signature="5214:5222" ph="é" />
+                <marker date="1522840646961" expanded="true" signature="5226:5234" ph="é" />
+                <marker date="1522840646961" expanded="true" signature="5245:5253" ph="é" />
+                <marker date="1522840646961" expanded="true" signature="5346:5352" ph="€" />
+                <marker date="1522840646961" expanded="true" signature="17984:17992" ph="é" />
+                <marker date="1522840646961" expanded="true" signature="17996:18004" ph="é" />
+                <marker date="1522840646961" expanded="true" signature="18015:18023" ph="é" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,6 +159,8 @@
       <find>ul</find>
       <find>background-size</find>
       <find>footer</find>
+      <find>option value</find>
+      <find>csv-2</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -192,6 +291,16 @@
             </path>
             <path>
               <item name="strata-cms-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strata-cms-template" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="hugo-strata-theme" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="thumbs" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="strata-cms-template" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
             </path>
             <path>
@@ -262,12 +371,13 @@
       <workItem from="1521619738379" duration="8503000" />
       <workItem from="1521713012979" duration="592000" />
       <workItem from="1521799714211" duration="1697000" />
-      <workItem from="1522747918738" duration="1345000" />
+      <workItem from="1522747918738" duration="1935000" />
+      <workItem from="1522833532642" duration="4367000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43618000" />
+    <option name="totallyTimeSpent" value="48575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="3" width="1936" height="1056" extended-state="6" />
@@ -280,7 +390,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16364606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1652452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -306,38 +416,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/partials/recent-posts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="43" lean-forward="false" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/hugo-strata-theme/layouts/partials/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/config.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1462">
@@ -649,7 +727,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -657,7 +734,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -677,10 +753,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/prestashop1.7/ajx_upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/prestashop1.7/tpl_esperso_import_csv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="279" column="164" lean-forward="false" selection-start-line="278" selection-start-column="48" selection-end-line="278" selection-end-column="53" />
+          <folding>
+            <marker date="1522840397830" expanded="true" signature="472:480" ph="é" />
+            <marker date="1522840397830" expanded="true" signature="483:491" ph="à" />
+            <marker date="1522840397830" expanded="true" signature="2449:2457" ph="é" />
+            <marker date="1522840397830" expanded="true" signature="2458:2466" ph="é" />
+            <marker date="1522840397830" expanded="true" signature="2472:2480" ph="é" />
+            <marker date="1522840397830" expanded="true" signature="2562:2570" ph="é" />
+            <marker date="1522840397830" expanded="true" signature="2571:2579" ph="é" />
+            <marker date="1522840397830" expanded="true" signature="2585:2593" ph="é" />
+            <marker date="1522840397830" expanded="true" signature="3116:3189" ph="SELECT nom,p... ${$table}" />
+            <marker date="1522840397830" expanded="true" signature="12580:12588" ph="à" />
+            <marker date="1522840397830" expanded="true" signature="14443:14451" ph="é" />
+            <marker date="1522840397830" expanded="true" signature="14452:14460" ph="é" />
+            <marker date="1522840397830" expanded="true" signature="14466:14474" ph="é" />
+            <marker date="1522840397830" expanded="true" signature="14557:14565" ph="é" />
+            <marker date="1522840397830" expanded="true" signature="14566:14574" ph="é" />
+            <marker date="1522840397830" expanded="true" signature="14580:14588" ph="é" />
+            <marker date="1522840397830" expanded="true" signature="15568:15641" ph="SELECT nom,p... ${$table}" />
+            <marker date="1522840397830" expanded="true" signature="20955:20963" ph="à" />
+            <marker date="1522840397830" expanded="true" signature="22811:22819" ph="é" />
+            <marker date="1522840397830" expanded="true" signature="22820:22828" ph="é" />
+            <marker date="1522840397830" expanded="true" signature="22834:22842" ph="é" />
+            <marker date="1522840397830" expanded="true" signature="22924:22932" ph="é" />
+            <marker date="1522840397830" expanded="true" signature="22933:22941" ph="é" />
+            <marker date="1522840397830" expanded="true" signature="22947:22955" ph="é" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/prestashop1.7/ajx_element_post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13054">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522850299640" expanded="true" signature="1917:2267" ph="INSERT INTO ${$table}... " />
+            <marker date="1522850299640" expanded="true" signature="3178:3449" ph="SELECT COUNT... ${$table}" />
+            <marker date="1522850299640" expanded="true" signature="4120:4334" ph="SELECT COUNT... ${$table}" />
+            <marker date="1522850299640" expanded="true" signature="5404:5534" ph="SELECT COUNT... ${$table}" />
+            <marker date="1522850299640" expanded="true" signature="8171:8276" ph="SELECT COUNT... ${$table}" />
+            <marker date="1522850299640" expanded="true" signature="8538:8643" ph="SELECT COUNT... ${$table}" />
+            <marker date="1522850299640" expanded="true" signature="8905:9010" ph="SELECT COUNT... ${$table}" />
+            <marker date="1522850299640" expanded="true" signature="10967:11126" ph="SELECT COUNT... ${$table}" />
+            <marker date="1522850299640" expanded="true" signature="13738:13839" ph="SELECT COUNT... ${$table}" />
+            <marker date="1522850299640" expanded="true" signature="13982:14037" ph="SELECT cle,v... ${$table}" />
+            <marker date="1522850299640" expanded="true" signature="14395:14881" ph="INSERT INTO ${$table}... " />
+            <marker date="1522850299640" expanded="true" signature="20560:20776" ph="SELECT COUNT... ${$table}" />
+            <marker date="1522850299640" expanded="true" signature="20906:21491" ph="INSERT INTO ${$table}... " />
+            <marker date="1522850299640" expanded="true" signature="21641:21788" ph="INSERT INTO ${$table}... " />
+            <marker date="1522850299640" expanded="true" signature="22765:23075" ph="INSERT INTO ${$table}... " />
+            <marker date="1522850299640" expanded="true" signature="24211:24700" ph="INSERT INTO ${$table}... " />
+            <marker date="1522850299640" expanded="true" signature="25723:26019" ph="INSERT INTO ${$table}... " />
+            <marker date="1522850299640" expanded="true" signature="27129:27438" ph="INSERT INTO ${$table}... " />
+            <marker date="1522850299640" expanded="true" signature="32240:32492" ph="INSERT INTO ${$table}... " />
+            <marker date="1522850299640" expanded="true" signature="33969:34336" ph="INSERT INTO ${$table}... " />
+            <marker date="1522850299640" expanded="true" signature="34596:34705" ph="SELECT COUNT... ${$table}" />
+            <marker date="1522850299640" expanded="true" signature="34783:34968" ph="INSERT INTO ${$table}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/prestashop1.7/tpl_esperso_ajouter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1071">
+          <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding>
+            <marker date="1522840646961" expanded="true" signature="294:467" ph="SELECT SUM(t... ${$table}" />
+            <marker date="1522840646961" expanded="true" signature="5214:5222" ph="é" />
+            <marker date="1522840646961" expanded="true" signature="5226:5234" ph="é" />
+            <marker date="1522840646961" expanded="true" signature="5245:5253" ph="é" />
+            <marker date="1522840646961" expanded="true" signature="5346:5352" ph="€" />
+            <marker date="1522840646961" expanded="true" signature="17984:17992" ph="é" />
+            <marker date="1522840646961" expanded="true" signature="17996:18004" ph="é" />
+            <marker date="1522840646961" expanded="true" signature="18015:18023" ph="é" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/site/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="95" column="36" lean-forward="true" selection-start-line="95" selection-start-column="36" selection-end-line="95" selection-end-column="36" />
+        <state relative-caret-position="416">
+          <caret line="99" column="0" lean-forward="true" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
           <folding />
         </state>
       </provider>
