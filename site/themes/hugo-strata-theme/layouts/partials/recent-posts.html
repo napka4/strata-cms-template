@@ -10,6 +10,10 @@
         {{ range first 8 (where .Data.Pages "Section" "post") }}
             <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
         {{ end }}
+
+        {{ partial "pagination" . }}
+
+        {{ end }}
         </ol>
         </p>
 	</div>
