@@ -2,9 +2,11 @@
 title: Et hop un joyeux bug !!
 date: '2018-04-26T15:21:59+02:00'
 ---
-s Ca nous est tous arriver un jour, pendant un développement tranquilement installé sur notre bureau et là d'un coup : BAM, le Bug, qui vient sans prévenir.
+Ca nous est tous arriver un jour, pendant un développement tranquilement installé sur notre bureau et là d'un coup : BAM, le Bug, qui vient sans prévenir.
 
 <img src="https://visualhunt.com/photos/4/usb-memory-card-cd-data-flash-storage-store.jpg?s=l">
+
+<small>Photo on <a href="https://visualhunt.com/re/32a9bd">Visual hunt</a></small>
 
 Là comme ça juste pour nous emmerder. Alors souvent on le voit venir (la virgule mal placée, l'accolade pas fermée, etc)
 
