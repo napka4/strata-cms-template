@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+    <-- channel goes here -->
+    <channel>
+        <title>Super Alex le Blog {{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
+        <description>Les pérégrinations d'une jeune dev{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}</description>
+        <link>https://blogsuperalex.netlify.com / {{ $.Site.BaseURL }}</link>
+
+        <-- items goes here -->
+        <item>
+            <title> {{ with .Site.Params.recentposts.title }}</title>
+            <link>{{ .Permalink }}</link>
+            <guid>{{ .Permalink }}</guid>
+            <pubDate>{{ .Date.Format .Site.Params.date_format }}</pubDate>
+        </item>
+    </channel>
+
+
+</rss>
