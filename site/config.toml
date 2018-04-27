@@ -10,7 +10,7 @@ paginate = 10
 
 enableEmoji = true
 home = ["RSS"]
-RSSLink = "rss.xml"
+
 
 [params]
 	# To provide some metadata for search engines feel free to add a few
