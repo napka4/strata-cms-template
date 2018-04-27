@@ -10,7 +10,7 @@ paginate = 10
 
 enableEmoji = true
 home = ["RSS"]
-RSSLink = "index.xml"
+RSSLink = "rss.xml"
 
 [params]
 	# To provide some metadata for search engines feel free to add a few
@@ -39,13 +39,11 @@ RSSLink = "index.xml"
 		googleplus = ""
 		flickr = ""
 		linkedin = ""
-		rss = "{{ .URL }}" type="application/rss+xml" target="_blank"
 
 		copyright = [
 			"&copy; Super Alex",
 			"Design: with &hearts; in Paris",
 			"Images: Super Alex ou libre de droits"
-			"<a href="{{ .URL }}" type="application/rss+xml" target="_blank">{{ .SomeText }}</a>"
 		]
 
 	[params.about]
