@@ -36,6 +36,7 @@ enableEmoji = true
 		googleplus = ""
 		flickr = ""
 		linkedin = ""
+		rss = "{{ .URL }}" type="application/rss+xml" target="_blank"
 
 		copyright = [
 			"&copy; Super Alex",
