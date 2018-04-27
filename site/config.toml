@@ -42,6 +42,7 @@ enableEmoji = true
 			"&copy; Super Alex",
 			"Design: with &hearts; in Paris",
 			"Images: Super Alex ou libre de droits"
+			"<a href="{{ .URL }}" type="application/rss+xml" target="_blank">{{ .SomeText }}</a>"
 		]
 
 	[params.about]
