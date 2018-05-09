@@ -48,7 +48,7 @@ La madame impose grave !!
 
 <small>Alexandra en tenue de lama, mais pas l'animal hein!</small>
 
-Et elle a fait de sa vie une sacré aventure ! C'est une exploratrice incroyable, une éridite, une femme de caractère, un modèle hyper inspirant et je vous invite à lire l'article [Wikipédia](https://fr.wikipedia.org/wiki/Alexandra_David-N%C3%A9el) qui est très intéressant !
+Et elle a fait de sa vie une sacré aventure ! C'est une exploratrice incroyable, une érudite, une femme de caractère, un modèle hyper inspirant et je vous invite à lire l'article [Wikipédia](https://fr.wikipedia.org/wiki/Alexandra_David-N%C3%A9el) qui est très intéressant !
 
 Du coup quand on regarde sa vie on se dit qu'elle correspond bien à son prénom, c'est presque une marque de fabrique !
 
