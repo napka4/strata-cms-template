@@ -72,8 +72,22 @@ Super maman, elle engendre plein d'enfants comme : Éther, Héméra, Charon, Ép
 
 Pourquoi Eris est en gras madame !! C'est la déesse de la discorde et je te mets au courant maintenant, Super Alex est discordienne ! D'où l'importance pour moi ! (heu, c'est quoi madame le discordianisme? Va voir ton moteur de recherche pour cela ou attends sagement que je poste un truc là-desus !)
 
-Donc Nox, mein Katze, est noire, et me fait rire comme le gaz hilarant, et est capable d'engendrer le chaos dans la maison ! ^^
+Donc Nox, mein Katze, est noire comme la nuit, et me fait rire comme le gaz hilarant, et est capable d'engendrer le chaos dans la maison, de changer la destinée des gens, et d'accomplir tout un tas de miracle, comme l'ont fait tout les enfants de Nox ! ^^
 
 Et Nix, à part être le versant grecque de Nox? 
 
 C'est la petite lune de Pluton ! (heu d'accord pourquoi Pluton c'est important pour un chat? PARCE QUE !!!) Bah en plus de m'appeler Super Alex je viens de la planète Pluton, j'ai quand même un sacré style ! Et logiquement mon super pote s'est dit qu'il fallait me rendre hommage en nommant son chat en mon honneur (ça veut dire qu'ils gravitent tout les deux autour de moi, comme la Lune le fait avec la Terre, comme Nix le fait avec Pluton !)
+
+Bon tu vois nommer corectement les gens et les êtres vivant c'est important ! C'est comme lorsque tu nomme ton poney Petite Tempête, il va pas prendre les caractèristiques de Soleil Apaisé. D'ailleurs regarde le nom des chevaux champions, ça te donne aussi un indice! On a jamais vu un cheval nommé Grassouillet devenir célèbre!
+
+C'est Laïka qui est allée dans l'espace (petit aboyeur) et pas Nonossss !
+
+Et maintenant attention gros parallèle avec le web !!! Quand tu créer une appli, un site, tu DOIS nommer correctement celles-ci ! 
+
+Si ta fonction permet de faire un affichage du nombre de visiteur du site tu vas pas la nommer "func visiteursite" mais plutot "func showVisitorsNumber" 
+
+si tu créé une fonctionnalité qui gère l'affichage des photos de petits chats bah tu vas nommer ça DisplayLittleCatsPics . Bref tu pense que c'est long (et en plus faut le faire en anglais!) mais un gentil dev passe derrière il comprend tout de suite de quoi parle ta fonction et cherche pas c'est quoi cette p\*\*\*\*n de fonction graouboulga ! (Même si j'avoue je mettrais peut être une fonction graouboulga dans un prochain script parce que c'est drôle! )
+
+Ce post était long, mais on en est venu à bout ! Pour te récompenser voilà une photo de chat !!!
+
+<img src="https://media.giphy.com/media/eUQVeW0WEwGxq/giphy.gif" alt="chat qui approuve cet article">
