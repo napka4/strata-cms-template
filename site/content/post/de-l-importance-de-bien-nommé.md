@@ -92,6 +92,10 @@ Si ta fonction permet de faire un affichage du nombre de visiteur du site tu vas
 
 si tu créé une fonctionnalité qui gère l'affichage des photos de petits chats bah tu vas nommer ça DisplayLittleCatsPics . Bref tu pense que c'est long (et en plus faut le faire en anglais!) mais un gentil dev passe derrière il comprend tout de suite de quoi parle ta fonction et cherche pas c'est quoi cette p\*\*\*\*n de fonction graouboulga ! (Même si j'avoue je mettrais peut être une fonction graouboulga dans un prochain script parce que c'est drôle! )
 
+\*J'aurais bien aimé parlé aussi de l'influence du nom plus en détail, de façon plus poussé mais bon déjà là on est pas mal.
+
 Ce post était long, mais on en est venu à bout ! Pour te récompenser voilà une photo de chat !!!
 
 <img src="https://media.giphy.com/media/eUQVeW0WEwGxq/giphy.gif" alt="chat qui approuve cet article">
+
+Si tu veux réagir en m'expliquant en quoi ton prénom est mieux que le mien, exprime toi en commentaire je serais Ô combien ravie !
