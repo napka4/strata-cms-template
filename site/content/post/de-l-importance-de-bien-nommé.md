@@ -74,6 +74,10 @@ Pourquoi Eris est en gras madame !! C'est la déesse de la discorde et je te met
 
 Donc Nox, mein Katze, est noire comme la nuit, et me fait rire comme le gaz hilarant, et est capable d'engendrer le chaos dans la maison, de changer la destinée des gens, et d'accomplir tout un tas de miracle, comme l'ont fait tout les enfants de Nox ! ^^
 
+![Nox Le chat des enfers !](/img/blog/1512235575074-1-.jpg)
+
+<small>Nox le chat des enfers !</small>
+
 Et Nix, à part être le versant grecque de Nox? 
 
 C'est la petite lune de Pluton ! (heu d'accord pourquoi Pluton c'est important pour un chat? PARCE QUE !!!) Bah en plus de m'appeler Super Alex je viens de la planète Pluton, j'ai quand même un sacré style ! Et logiquement mon super pote s'est dit qu'il fallait me rendre hommage en nommant son chat en mon honneur (ça veut dire qu'ils gravitent tout les deux autour de moi, comme la Lune le fait avec la Terre, comme Nix le fait avec Pluton !)
