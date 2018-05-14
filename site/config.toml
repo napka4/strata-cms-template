@@ -11,11 +11,6 @@ paginate = 10
 enableEmoji = true
 home = ["RSS"]
 
-[taxonomies]
-  categorie = "categories"
-  web = "web"
-  tag = "tags"
-
 
 [params]
 	# To provide some metadata for search engines feel free to add a few
