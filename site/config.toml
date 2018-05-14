@@ -152,5 +152,5 @@ home = ["RSS"]
 
 [[menu.main]]
 	name = "Blog"
-	url  = "post/"
+	url  = "/post/"
 	weight = 10
