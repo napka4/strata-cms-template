@@ -1,8 +1,6 @@
 ---
 title: Un petit tour d'HTML 5
 date: '2018-04-03T14:47:21+02:00'
-tags = [HTML5, Web, Développement]
-categories = ["Web", "Développement"]
 ---
 Je suis tombée sur un article qui présente les nouveau balisages HTML 5 qui sont très pratiques et pourtant peu utilisés ! 
 
