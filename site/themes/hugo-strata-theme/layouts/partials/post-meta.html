@@ -1,5 +1,6 @@
 <i class="fa fa-calendar"></i>&nbsp;&nbsp;
 <time datetime="{{ .Date }}">{{ .Date.Format .Site.Params.date_format }}</time>&nbsp;&nbsp;
+Temps de lecture : {{ .ReadingTime }} minutes
 
 {{ if isset .Params "categories" }}
     {{ $categoriesLen := len .Params.categories }}
