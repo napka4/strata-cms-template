@@ -7,6 +7,7 @@ disqusShortname = "super-alex-blog"
 googleAnalytics = ""
 # Define how many posts should appear on a site
 paginate = 10
+canonifyurls = true
 
 enableEmoji = true
 home = ["RSS"]
