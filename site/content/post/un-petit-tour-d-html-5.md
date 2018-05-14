@@ -8,7 +8,7 @@ Alors voici un petit tour d'horizon de ces nouvelles balises :
 
 1 La balise "details"
 
-<pre><code class="html">
+<pre><code data-language="html">
 <details>     
     <summary>Copyright 1999-2014.</summary>    
     <p> - by Refsnes Data. All Rights Reserved.</p>    
