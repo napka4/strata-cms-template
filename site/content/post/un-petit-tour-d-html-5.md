@@ -7,14 +7,14 @@ Je suis tombée sur un article qui présente les nouveau balisages HTML 5 qui so
 Alors voici un petit tour d'horizon de ces nouvelles balises : 
 
 1 La balise "details"
+
 <pre><code class="html">
-La balise <details> :<details>     
+<details>     
     <summary>Copyright 1999-2014.</summary>    
     <p> - by Refsnes Data. All Rights Reserved.</p>    
     <p>All content and graphics on this web site are the property of the company Refsnes Data.</p>
 </details>
 </code></pre>
-
 
 Elle permet de faire une petite liste cliquable pour l'utilisateur 
 
