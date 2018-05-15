@@ -42,10 +42,10 @@ home = ["RSS"]
 		linkedin = ""
 
 		copyright = [
-			"&copy; <a href="http://superalex.me">Super Alex</a>",
+			"&copy; Super Alex",
 			"Design: with &hearts; in Paris",
 			"Images: Super Alex ou libre de droits",
-			"Theme modify by Super Alex, originally <a href="https://themes.gohugo.io/strata/">Hugo Strata</a>"
+			"Theme modify by Super Alex, originally Hugo Strata"
 		]
 
 	[params.about]
