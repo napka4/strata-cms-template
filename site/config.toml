@@ -103,6 +103,13 @@ home = ["RSS"]
 			description = "Mise à jour du site, maintenance sur Joomla"
 			url = "http://www.eviaudio.fr/"
 
+		[[params.portfolio.gallery]]
+            image = "fulls/imprimbig.png"
+            thumb = "thumbs/annonce-site.png"
+            title = "Imprim'Luxe"
+            description = "Refonte totale du site (avec l'aide de graphistes!), Développement spécifique sur le moteur de recherche interne, Réalisation complète sous WordPress, Mise à jour du site, maintenance sur WordPress"
+            url = "http://www.imprim-luxe.fr/"
+
 	[params.contact]
 		hide  = false
 		title = "Tu veux me contacter ?"
