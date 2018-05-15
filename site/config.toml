@@ -64,7 +64,7 @@ home = ["RSS"]
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
 			image = "fulls/atelierbig.jpg"
-			thumb = "thumbs/ateliermin.png"
+			thumb = "thumbs/ateliermin.jpg"
 			title = "Atelier du Jardin 60"
 			description = "Site e-commerce sous Prestashop. Développement complet de la boutique, thème de base"
 			url = "http://atelierdujardin60.fr"
