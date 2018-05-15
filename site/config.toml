@@ -44,8 +44,7 @@ home = ["RSS"]
 		copyright = [
 			"&copy; Super Alex",
 			"Design: with &hearts; in Paris",
-			"Images: Super Alex ou libre de droits",
-			"Theme modify by Super Alex, originally Hugo Strata"
+			"Images: Super Alex ou libre de droits"
 		]
 
 	[params.about]
