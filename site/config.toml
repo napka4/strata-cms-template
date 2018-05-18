@@ -133,7 +133,7 @@ home = ["RSS"]
 	    # - send a dummy email yourself to confirm your account
 	    # - click the confirm link in the email from www.formspree.io
 	    # - you're done. Happy mailing!
-		email = "ausecours@superalex.me"
+		email = "nanshee4@gmail.com"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native
