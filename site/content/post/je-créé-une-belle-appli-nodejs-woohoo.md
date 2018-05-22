@@ -10,14 +10,18 @@ J'ai décidé de me refaire des tutos et de coder en Javascript pour être un pe
 
 Alors voici voilà mon début dans Node ! En fait j'avais déjà vu tout ça (grâce aux cours et un peu de curiosité !) mais j'ai jamais été au bout du truc !!
 
-Du coup mon boulot sera de vous présenter un projet fini !!! Oui Oui mesdames et messieurs je vais être obligé de faire un projet de A à Z sous vos yeux ébahis !! Et pas de prétexte flemme pour ne pas le faire ! 
+Du coup mon boulot sera de **vous présenter un projet fini** !!! Oui Oui mesdames et messieurs je vais être obligé de faire un** projet de A à Z** sous vos yeux ébahis !! Et pas de prétexte flemme pour ne pas le faire ! 
 
 En ce moment je peux vous faire part de mon avancement !! 
 
-J'ai créer la base de l'appli (qui va servir à chercher des films via une API,rajouter des films, se connecter pour éditer ses préférences...) 
+\-_J'ai créé la base de l'appli (qui va servir à chercher des films via une API,rajouter des films, se connecter pour éditer ses préférences...)  (node avec express !)_
 
-La communication avec l'API est en place (themoviedb)
+\-_La communication avec l'API est en place (themoviedb)_
 
-Le système de login est en cours d'installation !! 
+\-_Le système de login est en cours d'installation !! (utilisation JWT)_
 
-Comme j'avance trop bien !!!! Et avec un peu de courage je vous ferait un beau CSS pour que vos yeux pleurent pas de souffrance esthétique !
+**\-Il me reste à faire la fin de l'implémentation du système de login**
+
+**\-Rajouter une base de données (MongoDB-Mongoose)**
+
+Comme j'avance trop bien !!!! Et avec un peu de courage je vous ferait _un beau CSS_ pour que vos yeux pleurent pas de souffrance esthétique !
