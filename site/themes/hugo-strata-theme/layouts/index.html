@@ -5,6 +5,7 @@
 
 	{{ if not .Site.Params.recentposts.hide }}
 	{{ partial "recent-posts" . }}
+    {{ partial "pagination" . }}
 	{{ end }}
 
 	{{ if not .Site.Params.portfolio.hide }}
