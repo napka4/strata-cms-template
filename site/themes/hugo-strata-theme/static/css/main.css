@@ -1995,7 +1995,7 @@
 			-webkit-transition: opacity 0.2s ease-in-out;
 			-ms-transition: opacity 0.2s ease-in-out;
 			transition: opacity 0.2s ease-in-out;
-			/*background: url("images/overlay.png");*/
+			background: url("images/overlay.png");
 			border-radius: 0.35em;
 			content: '';
 			display: block;
@@ -2466,7 +2466,7 @@
 	#header {
 		background-color: #1f1815;
 		background-attachment: scroll,								fixed;
-		background-image: url("images/overlay.png"), url("../images/nomad.jpg");
+		background-image: url("images/overlay.png"), url("../images/nomad.png");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								auto 100%;
