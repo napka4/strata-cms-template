@@ -15,14 +15,14 @@ Parce que vois-tu lecteur égaré, j'aime infiniement les livres, même si je le
 Donc je vous code mon petit truc maison, comme une super grande fille, sans trouver de réponse sur le net (y'en a pas !😱) Et pour le coup j'apprends, mais alors tellement, à me servir de mon cerveau ! Je m'épate moi-même (si un peu quand même!)\
 Bref parce que tu es gentil d'être arrivé ici voilà pour te remercier une petite image d'aperçu :
 
-<img src="blob:http://superalex.me/bf1ea859-155a-4cc3-9651-2065b39d3480" width="800px" alt="Bibli'O Web, l'app qui va plaire à Voltaire !">
+<img src="https://raw.githubusercontent.com/napka4/strata-cms-template/master/site/static/img/blog/screenshot_2018-06-12-bibli-o-web.jpg" width="800px" alt="Bibli'O Web, l'app qui va plaire à Voltaire !">
 
 Et voudrais-tu visiteur voir le code de ce projet ? Allez je suis sympa le voilà !
 
 la page index et une section avec le javascript dedans ! Pour le moment on peut ajouter/supprimer sur le cache du navigateur ! Les fonctionnalités s'ajouteront au fur et à mesure !
 
-[<img src="blob:http://superalex.me/abfc968d-dfb7-4b79-80b7-08e3f661f19b" alt="code source" width="800px">](blob:http://superalex.me/abfc968d-dfb7-4b79-80b7-08e3f661f19b)
+[<img src="https://raw.githubusercontent.com/napka4/strata-cms-template/master/site/static/img/blog/carbon.png" alt="code source" width="800px">](https://raw.githubusercontent.com/napka4/strata-cms-template/master/site/static/img/blog/carbon.png)
 
-[<img src="blob:http://superalex.me/3b8274fe-40cc-4c79-8f37-eb0abfffea85" width="800">](blob:http://superalex.me/3b8274fe-40cc-4c79-8f37-eb0abfffea85)
+[<img src="https://raw.githubusercontent.com/napka4/strata-cms-template/master/site/static/img/blog/carbon-1-.png" width="800">](https://raw.githubusercontent.com/napka4/strata-cms-template/master/site/static/img/blog/carbon-1-.png)
 
 So see you !!
