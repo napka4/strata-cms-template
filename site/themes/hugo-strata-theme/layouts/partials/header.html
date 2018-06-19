@@ -7,7 +7,7 @@
 
 	{{ with .Site.Menus.main }}
 		<nav id="sidebar">
-			<ul style="display:flex; flex-direction:row;">
+			<ul style="display:flex; flex-direction:row;justify-content:center;">
 			{{ range . }}
 				<li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
 			{{ end }}
