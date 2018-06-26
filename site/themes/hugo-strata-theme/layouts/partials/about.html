@@ -1,8 +1,9 @@
 <section>
+	<img src="{{ $.Site.BaseURL }}images/{{ with .Site.Params.about.image }}" alt="" />{{ end}}
 	<header class="major">
 		{{ with .Site.Params.about.title }}<h2>{{ . | markdownify }}</h2>{{ end }}
 	</header>
 	{{ with .Site.Params.about.content }}<p>{{ . | markdownify }}</p>{{ end }}
-	<img src="{{ $.Site.BaseURL }}images/{{ .image }}" alt="" />{{ end}}
+
 
 </section>
