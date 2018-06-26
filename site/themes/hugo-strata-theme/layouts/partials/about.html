@@ -3,5 +3,6 @@
 		{{ with .Site.Params.about.title }}<h2>{{ . | markdownify }}</h2>{{ end }}
 	</header>
 
+	{{ with .Site.Params.about.image }}<img>{{ . | markdownify }}{{ end}}
 	{{ with .Site.Params.about.content }}<p>{{ . | markdownify }}</p>{{ end }}
 </section>
