@@ -49,7 +49,6 @@ home = ["RSS"]
 
 	[params.about]
 		hide  = false
-		image = "icon-left-font.png"
 		title = "Les aventures trépidantes d'une jeune dév !"
 		content = "Jeune développeuse (sa reconversion date d'avril 2017), Super Alex avait envie d'un espace à elle pour tester, rapporter et partager ses trouvailles. Quelles soient en lien avec le développement ou non ! Alors bienvenue dans mon bac à sable !"
 
