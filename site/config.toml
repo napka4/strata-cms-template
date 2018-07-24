@@ -162,3 +162,8 @@ home = ["RSS"]
 	name = "Blog"
 	url  = "/post/"
 	weight = 10
+
+[[menu.main]]
+	name = "Services"
+	url  = "/service/"
+	weight = 15
