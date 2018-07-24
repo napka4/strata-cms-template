@@ -3208,16 +3208,16 @@
 /*TIMELINE CSS*/
 
 .timeline{
-	margin: 0;
-	padding: 0;
+	margin: 2em 0 2em 0 !important;
+	padding: 1em 0 2em 0 !important;
 	background-color:#ff6d6d;
 	font-family: arial
 }
 
 .box{
-	margin:0 10%;
-	overflow: auto;
-	padding: 10px 0 40px 60px
+	margin:10px 10%;
+	padding: 10px 0 40px 60px;
+	height: 100%;
 }
 
 .box ul{
@@ -3228,8 +3228,6 @@
 	transition: all 0.5s linear;
 	top:0
 }
-
-.box ul:last-of-type{top:80px}
 
 .box ul:before{
 	content: "";
@@ -3250,7 +3248,6 @@
 	color:#fff;
 	border-radius: 10px;
 	line-height: 20px;
-	width: 35%
 }
 
 
