@@ -153,10 +153,8 @@ home = ["RSS"]
 [[menu.main]]
 	name = "Mon parcours"
 	identifier = "timeline"
-	url  = "/timeline/timeline.html"
+	url  = "/timeline/"
 	weight = 5
-	[permalinks]
-	    timeline = "/timeline/timeline.html"
 
 [[menu.main]]
 	name = "Blog"
