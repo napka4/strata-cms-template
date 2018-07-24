@@ -7,4 +7,4 @@ draft: false
 
 <h3>Voici les differents services que je propose :</h3>
 
-<img src="http://superalex.me/images/work.png">
+<img src="http://superalex.me/images/work.png" width="600px" alt="work on js">
