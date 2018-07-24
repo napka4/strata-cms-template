@@ -3,6 +3,7 @@
 type = "page"
 page = "timeline/timeline.html"
 +++
+
  <section class="timeline">       
    <div class="box">
                     <ul id="first-list">
