@@ -3207,99 +3207,169 @@
 
 /*TIMELINE CSS*/
 
-
-import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
-.container-timeline{
-	height: 100vh;
-	font-family: "Open Sans", sans-serif;
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#bea2e7+0,86b7e7+100 */
-	background: #bea2e7;
-	/* Old browsers */
-	background: -moz-linear-gradient(top, #bea2e7 0%, #86b7e7 100%);
-	/* FF3.6-15 */
-	background: -webkit-linear-gradient(top, #bea2e7 0%, #86b7e7 100%);
-	/* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, #bea2e7 0%, #86b7e7 100%);
-	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bea2e7', endColorstr='#86b7e7',GradientType=0 );
-	/* IE6-9 */
-}
-
-.container2 ul {
+.timeline{
 	margin: 0;
-	margin-top: 100px;
-	list-style: none;
+	padding: 0;
+	background-color:#ff6d6d;
+	font-family: arial
+}
+
+.box{
+	margin:0 10%;
+	height: 630px;
+	overflow: hidden;
+	padding: 10px 0 40px 60px
+}
+
+.box ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
 	position: relative;
-	padding: 1px 100px;
-	color: #fff;
-	font-size: 13px;
+	transition: all 0.5s linear;
+	top:0
 }
-.container2 ul:before {
+
+.box ul:last-of-type{top:80px}
+
+.box ul:before{
 	content: "";
-	width: 1px;
+	display: block;
+	width: 0;
 	height: 100%;
+	border:1px dashed #fff;
 	position: absolute;
-	border-left: 2px dashed #fff;
+	top:0;
+	left:30px
 }
-.container2 ul li {
+
+.box ul li{
+	margin: 20px 60px 60px;
 	position: relative;
-	margin-left: 30px;
-	background-color: rgba(255, 255, 255, 0.2);
-	padding: 14px;
-	border-radius: 6px;
-	width: 350px;
-	box-shadow: 0 0 4px rgba(0, 0, 0, 0.12), 0 2px 2px rgba(0, 0, 0, 0.08);
+	padding: 10px 20px;
+	background:rgba(255, 255, 255, 0.3);
+	color:#fff;
+	border-radius: 10px;
+	line-height: 20px;
+	width: 35%
 }
-.container2 ul li:not(:first-child) {
-	margin-top: 60px;
-}
-.container2 ul li > span {
-	width: 2px;
-	height: 100%;
-	background: #fff;
-	left: -30px;
-	top: 0;
-	position: absolute;
-}
-.container2 ul li > span:before, .container2 ul li > span:after {
+
+
+.box ul li > span{
 	content: "";
-	width: 8px;
-	height: 8px;
+	display: block;
+	width: 0;
+	height: 100%;
+	border:1px solid #fff;
+	position: absolute;
+	top:0;
+	left:-30px
+}
+
+.box ul li > span:before,.box ul li > span:after{
+	content: "";
+	display: block;
+	width: 10px;
+	height: 10px;
 	border-radius: 50%;
-	border: 2px solid #fff;
+	background:#ff6d6d;
+	border:2px solid #fff;
 	position: absolute;
-	background: #86b7e7;
-	left: -5px;
-	top: 0;
+	left:-7.5px
 }
-.container2 ul li span:after {
-	top: 100%;
+
+.box ul li > span:before{top:-10px}
+.box ul li > span:after{top:95%}
+
+.box .title{
+	text-transform: uppercase;
+	font-weight: 700;
+	margin-bottom: 5px
 }
-.container2 ul li > div {
-	margin-left: 10px;
+
+.box .info:first-letter{text-transform: capitalize;line-height: 1.7}
+
+.box .name{
+	margin-top: 10px;
+	text-transform: capitalize;
+	font-style: italic;
+	text-align: right;
+	margin-right: 20px
 }
-.container2 div .title, .container2 div .type {
-	font-weight: 600;
-	font-size: 12px;
-}
-.container2 div .info {
-	font-weight: 300;
-}
-.container2 div > div {
-	margin-top: 5px;
-}
-.container2 span.number {
-	height: 100%;
-}
-.container2 span.number span {
+
+
+.box .time span{
 	position: absolute;
-	font-size: 10px;
-	left: -35px;
+	left: -100px;
+	color:#fff;
+	font-size:80%;
 	font-weight: bold;
 }
-.container2 span.number span:first-child {
-	top: 0;
+.box .time span:first-child{top:-16px}
+.box .time span:last-child{top:94%}
+
+
+.arrow{
+	position: absolute;
+	top: 105%;
+	left: 22%;
+	cursor: pointer;
+	height:20px;
+	width:20px
 }
-.container2 span.number span:last-child {
-	top: 100%;
+
+.arrow:hover{
+	-webkit-animation: arrow 1s linear infinite;
+	-moz-animation: arrow 1s linear infinite;
+	-o-animation: arrow 1s linear infinite;
+	animation: arrow 1s linear infinite;
+}
+
+.box ul:last-of-type .arrow{
+	position: absolute;
+	top: 105%;
+	left: 22%;
+	transform: rotateX(180deg);
+	cursor: pointer;
+}
+
+svg{
+	width: 20px;
+	height: 20px
+}
+
+@keyframes arrow{
+	0%,100%{
+		top:105%
+	}
+	50%{
+		top:106%
+	}
+}
+
+@-webkit-keyframes arrow{
+	0%,100%{
+		top:105%
+	}
+	50%{
+		top:106%
+	}
+}
+
+@-moz-keyframes arrow{
+	0%,100%{
+		top:105%
+	}
+	50%{
+		top:106%
+	}
+}
+
+@-o-keyframes arrow{
+	0%,100%{
+		top:105%
+	}
+	50%{
+		top:106%
+	}
 }
