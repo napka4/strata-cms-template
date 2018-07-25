@@ -3275,7 +3275,7 @@
 	background:#ff6d6d;
 	border:2px solid #fff;
 	position: absolute;
-	left:-7.5px
+	left: -10px;
 }
 
 .box ul li > span:before{top:-10px}
