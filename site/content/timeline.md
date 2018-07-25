@@ -13,8 +13,8 @@ page = "timeline/timeline.html"
                             <div class="info">En poste chez Empreinte Graphique, et ayant gardé mon status d'auto-entrepreneur, je poursuis ma formation à la 3WAcademy en suivant leur parcour de formation bachelor, qui me permet de préparer un master en développement web !</div>
                             <div class="name">Plus d'infos prochainement</div>
                             <div class="time">
-                                <span>Aujourd'hui<sup></sup></span>
-                                <span>Octobre 2017</span>
+                                <span>Ce jour<sup></sup></span>
+                                <span>Oct 2017</span>
                             </div>
                         </li>
                         <li>
