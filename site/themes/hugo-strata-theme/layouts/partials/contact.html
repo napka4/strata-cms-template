@@ -7,7 +7,7 @@
 	<div class="row" id="contact-form">
 		{{ if (isset .Site.Params.contact "email") | and (gt (len .Site.Params.contact.email) 0) }}
 		<div class="8u 12u$(small)">
-			<form action="//formspree.io/{{ .Site.Params.contact.email }}" method="POST">
+			<form name="contact" action="//formspree.io/{{ .Site.Params.contact.email }}" method="POST" netlify>
 				<div class="row uniform 50%">
 					<input type="hidden" name="_subject" value="Nouveau mail reçu depuis le blog Super Alex" />
 					<div class="6u 12u$(xsmall)"><input type="text" name="name" id="name" placeholder="{{ .Site.Params.contact.form.name }}" required/></div>
