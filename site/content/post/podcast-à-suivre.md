@@ -23,3 +23,27 @@ date: '2018-08-29T15:35:40+02:00'
 les pensées tibetaines:
 
 <iframe src="https://www.franceculture.fr/player/export-reecouter?content=aea268b0-05f5-4773-ad04-bd2ae9f059de" width="481" frameborder="0" scrolling="no" height="137"></iframe>
+
+collège de france :
+
+<iframe src="https://www.franceculture.fr/player/export-reecouter?content=97ec927b-00bf-4fc3-ad3b-83aef4dcd618" width="481" frameborder="0" scrolling="no" height="137"></iframe>
+
+<iframe src="https://www.franceculture.fr/player/export-reecouter?content=3a43a3a9-0ed3-49b1-ae58-9ca39db78860" width="481" frameborder="0" scrolling="no" height="137"></iframe>
+
+<iframe src="https://www.franceculture.fr/player/export-reecouter?content=26808fa2-6284-40af-ab00-b6e90c7e4585" width="481" frameborder="0" scrolling="no" height="137"></iframe>
+
+<iframe src="https://www.franceculture.fr/player/export-reecouter?content=366ed9cb-a6bb-44d0-b825-14591a8d6ee8" width="481" frameborder="0" scrolling="no" height="137"></iframe>
+
+<iframe src="https://www.franceculture.fr/player/export-reecouter?content=aa4ece11-d845-4e94-bcbf-7ae217ed6eae" width="481" frameborder="0" scrolling="no" height="137"></iframe>
+
+<iframe src="https://www.franceculture.fr/player/export-reecouter?content=b36cd6c0-fdb0-4c78-b8da-2f84047425b3" width="481" frameborder="0" scrolling="no" height="137"></iframe>
+
+<iframe src="https://www.franceculture.fr/player/export-reecouter?content=08422841-6a77-415e-9744-1c48cbdca41e" width="481" frameborder="0" scrolling="no" height="137"></iframe>
+
+<iframe src="https://www.franceculture.fr/player/export-reecouter?content=4df6bcc1-3ec8-4a2c-82ac-92fccd0d2388" width="481" frameborder="0" scrolling="no" height="137"></iframe>
+
+<iframe src="https://www.franceculture.fr/player/export-reecouter?content=a7c833bb-2ba2-4a60-90ee-9fdeceacab70" width="481" frameborder="0" scrolling="no" height="137"></iframe>
+
+france inter :
+
+https://www.franceinter.fr/theme/bouddhisme
