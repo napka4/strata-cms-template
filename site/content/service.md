@@ -14,7 +14,7 @@ draft: false
 <div class="column">
         <img src="\images/code.png" class="center">
 <h2>Création de site vitrine ou e-commerce</h2>
-		<p>Besoin de présenter votre activité ou de vendre sur internet ? Je peux vous proposer de réaliser un site à votre image pour vous rendre visible sur le web. (Technos : HTML5/CSS3/JS WordPress/Prestashop</p>
+		<p>Besoin de présenter votre activité ou de vendre sur internet ? Je peux vous proposer de réaliser un site à votre image pour vous rendre visible sur le web. (Technos : HTML5/CSS3/JS WordPress/Prestashop)</p>
 		<small>A partir de 600€</small>
 	</div>
 	
