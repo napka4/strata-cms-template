@@ -8,8 +8,6 @@ Aujourd'hui j'ai réalisé un petit exploit personel !
 
 **J'ai installé sur un vieux iMac Xubuntu pour mon père**
 
-
-
 \
 Je reprends depuis le début :\
 La bête :
@@ -21,8 +19,6 @@ La bête :
 
 \
 Alors je lui ai proposé de passer sous Linux ! Et tant qu'à faire Xubuntu qui se rapproche le plus de l'interface graphique du Mac. Comme ça petit papa n'est pas perdu.
-
-
 
 **Bon d'entrée de jeu ça a été galère !**
 
