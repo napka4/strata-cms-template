@@ -1,5 +1,5 @@
 ---
-title: "\U0001F4BBJ'ai installé Xubuntu pour mon pôpa ! \U0001F4BE"
+title: "J'ai installé Xubuntu pour mon pôpa ! \U0001F4BE\U0001F4BB"
 date: '2018-11-19T14:13:17+01:00'
 ---
 # Hello les petits amis de la sphère !
