@@ -2,7 +2,7 @@
 title: Conditionner l'affichage d'un plugin sur Wordpress en fonction du device
 date: '2019-01-22T11:41:00+01:00'
 ---
-<img src="https://raw.githubusercontent.com/napka4/strata-cms-template/master/site/static/img/blog/luca-braco-217276-unsplash.jpg" width="400px" alt="du code php !">
+<img src="https://raw.githubusercontent.com/napka4/strata-cms-template/master//site/static/img/blog/luca-bravo-217276-unsplash.jpg" width="700px" alt="du code php !">
 
 Ouais ouais j'ai un titre de 2km, mais je suis fière !
 
