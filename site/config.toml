@@ -111,8 +111,8 @@ home = ["RSS"]
             url = "http://www.imprim-luxe.fr/"
 
 		[[params.portfolio.gallery]]
-        	image = "fulls/750.jpg"
-        	thumb = "thumbs/250.jpg"
+        	image = "fulls/Adine.png"
+        	thumb = "thumbs/Adine.png"
             title = "Groupe Adine"
             description = "Refonte totale du site (avec l'aide de graphistes!), Développement spécifique sur la version desktop et tablette (multiscroll), Réalisation complète sous WordPress, Mise à jour du site, maintenance sur WordPress"
             url = "http://groupe-adine.com/"
