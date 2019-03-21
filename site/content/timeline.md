@@ -30,10 +30,10 @@ page = "timeline/timeline.html"
                         <li>
                             <span></span>
                             <div class="title">Monitrice d'équitation Indépendante - Webmaster Indépendante</div>
-                            <div class="info">Et oui avant d'avoir le nez fourré dans des lignes de codes je donnais des leçons d'équitations (et j'en donne toujours de temps en temps) tout en me remettant gentillement le nez dans le web en commençant par le site e-commerce de mon père</div>
+                            <div class="info">Et oui avant d'avoir le nez fourré dans des lignes de codes je donnais des leçons d'équitations (et j'en donne toujours mais à un rythme plus léger) tout en me remettant gentillement le nez dans le web en commençant par le site e-commerce de mon père</div>
                             <div class="name">Un post qui racontera ça en détail bientôt</div>
                             <div class="time">
-                                <span>Avril 2017<sup></sup></span>
+                                <span>Encore aujourd'hui<sup></sup></span>
                                 <span>Juin 2015</span>
                             </div>
                         </li>

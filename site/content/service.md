@@ -31,6 +31,13 @@ draft: false
 		<p>Vous n'avez pas le temps ou les compétences pour mettre à jour votre site internet? Vous avez un catalogue produit à rentrer pour votre e-commerce? Je peux m'occuper de ces mises à jour. De même je peux redonner un coup de "neuf" à votre site internet au besoin</p>
 		<small>A partir de 200€</small>
 	</div>
+
+	<div class="column">
+  <img src="\images/mail.png" class="center" width="55%">
+		<h2>Création de newsletter</h2>
+		<p>Besoin d'envoyer des mails à vos clients, prospects... Je peux vous préparer de belles newsletters responsives qui correspondent à votre image</p>
+		<small>A partir de 70€</small>
+	</div>
 	
 </section>	
 
