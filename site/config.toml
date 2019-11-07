@@ -63,6 +63,21 @@ home = ["RSS"]
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
+        	image = "fulls/Adine.png"
+        	thumb = "thumbs/Adine.png"
+            title = "Groupe Adine"
+            description = "Refonte totale du site (avec l'aide de graphistes!), Développement spécifique sur la version desktop et tablette (multiscroll), Réalisation complète sous WordPress, Mise à jour du site, maintenance sur WordPress"
+            url = "http://groupe-adine.com/"
+
+			[[params.portfolio.gallery]]
+        	image = "fulls/tpu.jpg"
+        	thumb = "thumbs/tpu.pjpg"
+            title = "TPU"
+            description = "Refonte totale du site (avec l'aide de graphistes!), Développement spécifique sur la version desktop et tablette (multiscroll), Réalisation complète sous WordPress, Mise à jour du site, maintenance sur WordPress"
+            url = "http://tpu.fr/"
+
+
+		[[params.portfolio.gallery]]
 			image = "fulls/atelierbig.jpg"
 			thumb = "thumbs/ateliermin.jpg"
 			title = "Atelier du Jardin 60"
@@ -110,12 +125,7 @@ home = ["RSS"]
             description = "Refonte totale du site (avec l'aide de graphistes!), Développement spécifique sur le moteur de recherche interne, Réalisation complète sous WordPress, Mise à jour du site, maintenance sur WordPress"
             url = "http://www.imprim-luxe.fr/"
 
-		[[params.portfolio.gallery]]
-        	image = "fulls/Adine.png"
-        	thumb = "thumbs/Adine.png"
-            title = "Groupe Adine"
-            description = "Refonte totale du site (avec l'aide de graphistes!), Développement spécifique sur la version desktop et tablette (multiscroll), Réalisation complète sous WordPress, Mise à jour du site, maintenance sur WordPress"
-            url = "http://groupe-adine.com/"
+		
 
 	[params.contact]
 		hide  = false
