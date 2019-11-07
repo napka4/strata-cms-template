@@ -71,7 +71,7 @@ home = ["RSS"]
 
 			[[params.portfolio.gallery]]
         	image = "fulls/tpu.jpg"
-        	thumb = "thumbs/tpu.pjpg"
+        	thumb = "thumbs/tpu.jpg"
             title = "TPU"
             description = "Refonte totale du site (avec l'aide de graphistes!), Développement spécifique sur la version desktop et tablette (multiscroll), Réalisation complète sous WordPress, Mise à jour du site, maintenance sur WordPress"
             url = "http://tpu.fr/"
