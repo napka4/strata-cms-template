@@ -7,6 +7,7 @@ disqusShortname = "super-alex-blog"
 googleAnalytics = ""
 # Define how many posts should appear on a site
 paginate = 10
+canonifyurls = true
 
 enableEmoji = true
 home = ["RSS"]
@@ -38,7 +39,7 @@ home = ["RSS"]
 		facebook = ""
 		googleplus = ""
 		flickr = ""
-		linkedin = ""
+		linkedin = "alexandra-strub-ba1061114"
 
 		copyright = [
 			"&copy; Super Alex",
@@ -63,7 +64,7 @@ home = ["RSS"]
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
 			image = "fulls/atelierbig.jpg"
-			thumb = "thumbs/ateliermin.png"
+			thumb = "thumbs/ateliermin.jpg"
 			title = "Atelier du Jardin 60"
 			description = "Site e-commerce sous Prestashop. Développement complet de la boutique, thème de base"
 			url = "http://atelierdujardin60.fr"
@@ -102,14 +103,28 @@ home = ["RSS"]
 			description = "Mise à jour du site, maintenance sur Joomla"
 			url = "http://www.eviaudio.fr/"
 
+		[[params.portfolio.gallery]]
+            image = "fulls/imprimbig.png"
+            thumb = "thumbs/annonce-site.png"
+            title = "Imprim'Luxe"
+            description = "Refonte totale du site (avec l'aide de graphistes!), Développement spécifique sur le moteur de recherche interne, Réalisation complète sous WordPress, Mise à jour du site, maintenance sur WordPress"
+            url = "http://www.imprim-luxe.fr/"
+
+		[[params.portfolio.gallery]]
+        	image = "fulls/Adine.png"
+        	thumb = "thumbs/Adine.png"
+            title = "Groupe Adine"
+            description = "Refonte totale du site (avec l'aide de graphistes!), Développement spécifique sur la version desktop et tablette (multiscroll), Réalisation complète sous WordPress, Mise à jour du site, maintenance sur WordPress"
+            url = "http://groupe-adine.com/"
+
 	[params.contact]
 		hide  = false
 		title = "Tu veux me contacter ?"
 		content = "C'est facile, remplit ce questionnaire, et je te répondrais !"
 
 		address = [
-			"18 rue Demarquay",
-			"75010 Paris",
+			"25 rue Saint Eloi",
+			"60350 Cuise La Motte",
 			"FRANCE"
 		]
 		phone = "06-80-41-78-75"
@@ -125,7 +140,7 @@ home = ["RSS"]
 	    # - send a dummy email yourself to confirm your account
 	    # - click the confirm link in the email from www.formspree.io
 	    # - you're done. Happy mailing!
-		email = "nanshee4@gmail.com"
+		email = "alexandra.strub@protonmail.com"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native
@@ -145,12 +160,15 @@ home = ["RSS"]
 [[menu.main]]
 	name = "Mon parcours"
 	identifier = "timeline"
-	url  = "/timeline/timeline.html"
+	url  = "/timeline/"
 	weight = 5
-	[permalinks]
-	    timeline = "/timeline/timeline.html"
 
 [[menu.main]]
 	name = "Blog"
-	url  = "post/"
+	url  = "/post/"
 	weight = 10
+
+[[menu.main]]
+	name = "Services"
+	url  = "/service/"
+	weight = 15

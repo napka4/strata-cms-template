@@ -36,17 +36,11 @@ Une class "row" pour l'affichage, et une class "col-sm-6 col-lg-3" pour un affic
 
 ```
 <div class="list content row">
-```
 
-```
         <div class="one box col-sm-6 col-lg-3"><a href="monsuperlien.fr"><p class="name">trucmachin</p><p class="spec">Etiquettes</p><p class="spec">etuis</p></a></div>
-```
 
-```
         <div class="two box col-sm-6 col-lg-3"><a href="monlientropcool.com"><p class="name">abahoui</p><p class="spec">Cartonnage</p><p class="spec">etuis</p></a></div>
-```
 
-```
         <div class="three box col-sm-6 col-lg-3"><a href="wahocestcool.io"><p class="name">je suis un artiste</p><p class="spec">retouche</p><p class="spec">numerik</p><p class="spec">Communication imprimé feuille</p><p class="spec">façonnage</p></a></div>....</div>
 ```
 
@@ -57,10 +51,7 @@ Ensuite chaque image et lien sont insérer dans une "div" avec une classe décom
 Ma class "_name" permet de récupérer le nom_ de la recherche pour filtrer par nom, la class"spec" sera utilisé pour le filtre par checkboxes.
 
 \-5 Et maintenant _le script en js_ :
-
-```
-script>    var options =        {        valueNames: ['name', 'spec']         };    var userList = new List        ('test-list',options);    //filter    $('.filter').change(function() {        var bool = this.checked;        var value = $(this).data("value");        userList.filter(function (item) {            if (item.values().spec == value && bool == true) {        return true;                 } else if (userList.filtered && bool == false) {              return true;               } else {                return false;            }        });        return false;    });    $('.box').click(function(){        window.location.href = $("a",$(this)).attr("href");    });    $('.box').hover(function () {        $(this).css("cursor","pointer")    },function () {        $(this).css("cursor","default")    })</script>
-```
+<script src="https://gist.github.com/napka4/82f0ca0345c44fdcf6b377ffb88d835d.js"></script>
 
 Alors voilà un peu d'explications :
 

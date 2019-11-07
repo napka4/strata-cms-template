@@ -1,0 +1,8 @@
+<section>
+    <header class="major">
+        {{ with .Site.Params.service.title }}<h2>{{ . | markdownify }}</h2>{{ end }}
+    </header>
+
+    {{ with .Site.Params.service.content }}<p>{{ . | markdownify }}</p> <img src="http://superalex.me/images/icon-left-font.png">{{ end }}
+
+</section>

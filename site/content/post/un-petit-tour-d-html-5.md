@@ -8,9 +8,7 @@ Alors voici un petit tour d'horizon de ces nouvelles balises :
 
 1 La balise "details"
 
-```
-La balise <details> :<details>     <summary>Copyright 1999-2014.</summary>    <p> - by Refsnes Data. All Rights Reserved.</p>    <p>All content and graphics on this web site are the property of the company Refsnes Data.</p></details>
-```
+<script src="https://snipsave.com/embed/BsIFStX01FJYzq3gIZ.js"></script>
 
 Elle permet de faire une petite liste cliquable pour l'utilisateur 
 
@@ -28,9 +26,7 @@ _pas supporté chez IE_
 
 2 La balise "mark"
 
-```
-<p>Do not forget to buy <mark>milk</mark> today.</p>
-```
+<script src="https://gist.github.com/napka4/203fa705453f371c3fcfeb805158e836.js"></script>
 
 Pratique permet de surligné du texte :
 
@@ -38,9 +34,7 @@ Pratique permet de surligné du texte :
 
 3 La balise "small"
 
-```
-<p>W3Schools.com - the world's largest web development site.</p><p><small>Copyright 1999-2050 by Refsnes Data.</small></p>
-```
+<script src="https://gist.github.com/napka4/545be0563e244c587c8e9b721a4cf85b.js"></script>
 
 Pratique pour écrire des trucs petits tels les copyrights: (exemple piqué sur le site de la W3School)
 
@@ -48,13 +42,11 @@ Pratique pour écrire des trucs petits tels les copyrights: (exemple piqué sur 
 
 <p><small>Copyright 1999-2050 by Refsnes Data.</small></p>
 
-_Note: Il est possible que vous ne voyez rien de différent (compatibilité des navigateurs)_
+_Note: Il est possible que vous ne voyez rien de différent (compatibilité des navigateurs ...)_
 
 4 La balise "progress"
 
-```
-<progress value="22" max="100"></progress>
-```
+<script src="https://gist.github.com/napka4/d57738ded5c71c3d37d8f757194e4e5d.js"></script>
 
 Permet de faire des barres de progression :
 
